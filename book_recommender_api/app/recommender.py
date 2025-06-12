@@ -1,7 +1,22 @@
 # app/recommender.py
 
-from typing import Dict
+from typing import Dict, List
 from .models import FullProfile, BookOut
+import unicodedata
+
+# ---------------------
+# 🔹 UTILIDAD: Normalización de texto
+# ---------------------
+
+def normalize(text: str) -> str:
+    if not text:
+        return ""
+    return unicodedata.normalize('NFKD', text.lower()).encode('ASCII', 'ignore').decode('utf-8').strip()
+
+
+def normalize_list(texts: List[str]) -> List[str]:
+    return [normalize(t) for t in texts if t]
+
 
 # ---------------------
 # 🔹 SCORE CALCULATION
@@ -10,36 +25,45 @@ from .models import FullProfile, BookOut
 def compute_score(profile: FullProfile, book: Dict) -> float:
     preferences = profile.preferences
 
-    # 1. Genre match (peso alto)
-    genre_match = len(set(book.get("genres", [])) & set(preferences.genres))
-    genre_score = genre_match / max(len(preferences.genres), 1) if genre_match > 0 else 0
+    # Normalización
+    book_genres = normalize_list(book.get("genres", []))
+    book_themes = normalize_list(book.get("themes", []))
+    book_emotions = normalize_list(book.get("emotion_tags", []))
+    book_tone = normalize(book.get("tone"))
+    book_style = normalize(book.get("style"))
+    book_personality = book.get("personality_match", [])
+    book_age = normalize(book.get("age_range"))
 
-    # 2. Theme match
-    theme_match = len(set(book.get("themes", [])) & set(preferences.themes))
-    theme_score = theme_match / max(len(preferences.themes), 1) if theme_match > 0 else 0
+    profile_genres = normalize_list(preferences.genres)
+    profile_themes = normalize_list(preferences.themes)
+    profile_emotions = normalize_list(preferences.emotion_tags)
+    profile_tone = normalize(preferences.tone)
+    profile_style = normalize(preferences.style)
+    profile_age = normalize(preferences.age_range)
 
-    # 3. Emotion match
-    emotion_match = len(set(book.get("emotion_tags", [])) & set(preferences.emotion_tags))
-    emotion_score = emotion_match / max(len(preferences.emotion_tags), 1) if emotion_match > 0 else 0
+    # Coincidencias clave
+    genre_match = len(set(book_genres) & set(profile_genres))
+    theme_match = len(set(book_themes) & set(profile_themes))
+    emotion_match = len(set(book_emotions) & set(profile_emotions))
 
-    # 4. Personality match (normalizado)
-    personality_score = match_personality(profile.personality, book.get("personality_match", []))
+    genre_score = genre_match / max(len(profile_genres), 1) if genre_match > 0 else 0
+    theme_score = theme_match / max(len(profile_themes), 1) if theme_match > 0 else 0
+    emotion_score = emotion_match / max(len(profile_emotions), 1) if emotion_match > 0 else 0
 
-    # 5. Tone and style match
-    tone_match = 1.0 if book.get("tone") == preferences.tone else 0.0
-    style_match = 1.0 if book.get("style") == preferences.style else 0.0
+    tone_match = 1.0 if book_tone == profile_tone else 0.0
+    style_match = 1.0 if book_style == profile_style else 0.0
+    age_match = 1.0 if book_age == profile_age else 0.0
 
-    # 6. Age range match
-    age_match = 1.0 if book.get("age_range") == preferences.age_range else 0.0
+    personality_score = match_personality(profile.personality, book_personality)
 
-    # Final weighted score (ajustado)
+    # Ponderación reajustada
     score = (
-        0.30 * genre_score +
         0.25 * theme_score +
-        0.20 * emotion_score +
-        0.15 * personality_score +
-        0.05 * (tone_match + style_match) / 2 +
-        0.05 * age_match
+        0.25 * emotion_score +
+        0.20 * genre_score +
+        0.15 * tone_match +
+        0.05 * (style_match + age_match) / 2 +
+        0.10 * personality_score
     )
 
     return round(score, 4)
@@ -50,9 +74,6 @@ def compute_score(profile: FullProfile, book: Dict) -> float:
 # ---------------------
 
 def match_personality(personality: Dict, tags: list) -> float:
-    """
-    Calcula coincidencia de personalidad. Devuelve un valor entre 0 y 1.
-    """
     score = 0
     if not tags:
         return 0.0
@@ -83,18 +104,27 @@ def match_personality(personality: Dict, tags: list) -> float:
 
 
 # ---------------------
-# 🔹 EXPLANATION
+# 🔹 EXPLANATION (mejorada)
 # ---------------------
 
 def generate_explanation(book: Dict, profile: FullProfile) -> str:
-    matched_genres = set(book.get("genres", [])) & set(profile.preferences.genres)
-    matched_themes = set(book.get("themes", [])) & set(profile.preferences.themes)
-    matched_emotions = set(book.get("emotion_tags", [])) & set(profile.preferences.emotion_tags)
+    matched = []
 
-    explanation = f"Este libro fue seleccionado por coincidir con tus géneros favoritos ({', '.join(matched_genres)}), "
-    explanation += f"temas como ({', '.join(matched_themes)}), "
-    explanation += f"emociones evocadas ({', '.join(matched_emotions)}), "
-    explanation += f"y por su estilo {book.get('style')} y tono {book.get('tone')}."
+    if set(normalize_list(book.get("genres", []))) & set(normalize_list(profile.preferences.genres)):
+        matched.append("géneros favoritos")
+    if set(normalize_list(book.get("themes", []))) & set(normalize_list(profile.preferences.themes)):
+        matched.append("temas importantes")
+    if set(normalize_list(book.get("emotion_tags", []))) & set(normalize_list(profile.preferences.emotion_tags)):
+        matched.append("emociones evocadas")
+    if normalize(book.get("tone")) == normalize(profile.preferences.tone):
+        matched.append("tono narrativo")
+    if normalize(book.get("style")) == normalize(profile.preferences.style):
+        matched.append("estilo literario")
+
+    if matched:
+        explanation = f"Este libro fue seleccionado por coincidir con tus " + ", ".join(matched) + "."
+    else:
+        explanation = "Este libro fue sugerido por su afinidad general con tu perfil lector."
 
     return explanation
 
@@ -104,7 +134,4 @@ def generate_explanation(book: Dict, profile: FullProfile) -> str:
 # ---------------------
 
 def score_book(book: Dict, profile: FullProfile) -> float:
-    """
-    Interfaz pública para calcular la puntuación de un libro.
-    """
     return compute_score(profile, book)

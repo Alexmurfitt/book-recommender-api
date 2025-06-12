@@ -1,3 +1,5 @@
+# ✅ streamlit_app/app.py (versión corregida con endpoint /api/recommendation)
+
 import streamlit as st
 import requests
 
@@ -27,7 +29,6 @@ language = st.selectbox("¿En qué idioma prefieres leer?", ["es", "en"])
 # ---------------------------
 st.header("🧠 Test de Personalidad Big Five")
 
-# Diccionario de respuestas de likert
 likert = {
     "Muy en desacuerdo": 1,
     "En desacuerdo": 2,
@@ -38,7 +39,6 @@ likert = {
 
 st.markdown("Responde del 1 (Muy en desacuerdo) al 5 (Muy de acuerdo):")
 
-# Preguntas del test Big Five
 O = likert[st.radio("Me gusta experimentar cosas nuevas y tengo mucha imaginación.", list(likert.keys()), key="O1")]
 O += likert[st.radio("Disfruto aprendiendo sobre temas filosóficos o abstractos.", list(likert.keys()), key="O2")]
 
@@ -54,47 +54,63 @@ A += likert[st.radio("Confío en los demás y soy cooperativo.", list(likert.key
 N = likert[st.radio("Me estreso con facilidad.", list(likert.keys()), key="N1")]
 N += likert[st.radio("A menudo me siento ansioso o inseguro.", list(likert.keys()), key="N2")]
 
-# Convertir a escala de 0 a 100
-def scale(val): return int((val / 10) * 100)
+def scale(val):
+    return int((val / 10) * 100)
 
-# Resultado del test de personalidad
 personality = {
     "O": scale(O),
     "C": scale(C),
     "E": scale(E),
     "A": scale(A),
-    "N": scale(N),
+    "N": scale(N)
 }
 
 # ---------------------------
-# 3. Enviar a API
+# 3. Validación y envío a API
 # ---------------------------
 if st.button("🔍 Obtener recomendación"):
-    # Crear payload con las respuestas del cuestionario
-    payload = {
-        "preferences": {
-            "genres": genre,
-            "themes": themes,
-            "tone": tone,
-            "style": style,
-            "emotion_tags": emotion_tags,
-            "age_range": age_range,
-            "language": language
-        },
-        "personality": personality
-    }
+    if not genre or not themes or not emotion_tags:
+        st.warning("⚠️ Por favor, completa al menos género, tema y emociones.")
+    else:
+        payload = {
+            "preferences": {
+                "genres": genre,
+                "themes": themes,
+                "tone": tone,
+                "style": style,
+                "emotion_tags": emotion_tags,
+                "age_range": age_range,
+                "language": language
+            },
+            "personality": personality
+        }
 
-    try:
-        # Realizar la petición a la API de recomendación
-        response = requests.post("http://127.0.0.1:8001/api/recommendation", json=payload)
-        if response.status_code == 200:
-            data = response.json()["recommendation"]
-            # Mostrar los resultados
-            st.success("✅ ¡Libro recomendado!")
-            st.markdown(f"### **{data['title']}**\n📖 *{data['author']}*\n\n🧠 _{data['description']}_")
-            st.markdown(f"**Motivo:** {response.json()['explanation']}")
-        else:
-            st.error(f"⚠️ {response.json()['detail']}")
-    except Exception as e:
-        st.error("🚫 Error al conectar con la API.")
-        st.text(str(e))
+        with st.expander("📦 Datos enviados a la API"):
+            st.json(payload)
+
+        try:
+            response = requests.post("http://127.0.0.1:8001/api/recommendation", json=payload)
+            if response.status_code == 200:
+                data = response.json()["recommendation"]
+                explanation = response.json()["explanation"]
+
+                st.success("✅ ¡Libro recomendado!")
+                st.markdown(f"""
+                ### 📖 {data['title']}
+                **Autor:** {data['author']}
+                **Edad recomendada:** {data['age_range']}
+                **Tono:** {data['tone']}  
+                **Estilo:** {data['style']}  
+                **Temas:** {', '.join(data['themes'])}  
+                **Emociones evocadas:** {', '.join(data['emotion_tags'])}  
+
+                📝 *{data['description']}*
+
+                💡 **Motivo de la recomendación:**  
+                {explanation}
+                """)
+            else:
+                st.error(f"⚠️ {response.json().get('detail', 'Error en la respuesta de la API.')}")
+        except Exception as e:
+            st.error("🚫 Error al conectar con la API.")
+            st.text(str(e))

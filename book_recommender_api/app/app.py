@@ -1,12 +1,19 @@
-# ✅ streamlit_app/app.py (versión corregida con endpoint /api/recommendation)
+# ✅ streamlit_app/app.py
+import os
+import sys
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
 import streamlit as st
 import requests
+from utils.field_loader import load_field_options
+
+# Cargar opciones desde JSON preprocesado
+options = load_field_options()
 
 # Configuración de la página
 st.set_page_config(page_title="Recomendador de Libros", layout="centered")
 
-# Título de la aplicación
+# Título
 st.title("📚 Recomendador Personalizado de Libros")
 st.subheader("Contesta el siguiente cuestionario para obtener una recomendación literaria única.")
 
@@ -15,14 +22,13 @@ st.subheader("Contesta el siguiente cuestionario para obtener una recomendación
 # ---------------------------
 st.header("🎯 Tus preferencias literarias")
 
-# Preguntas para las preferencias literarias
-genre = st.multiselect("¿Qué géneros te gustan?", ["Ciencia Ficción", "Fantasía", "Drama", "Romance", "Filosofía", "Misterio"])
-themes = st.multiselect("¿Qué temas te interesan?", ["amistad", "superación personal", "control social", "existencialismo", "familia"])
-tone = st.selectbox("¿Qué tono prefieres?", ["oscuro", "luminoso", "reflexivo", "dinámico"])
-style = st.selectbox("¿Qué estilo narrativo prefieres?", ["directo", "poético", "literario"])
-emotion_tags = st.multiselect("¿Qué emociones te gusta que evoque un libro?", ["esperanza", "tristeza", "reflexión", "ternura", "angustia"])
-age_range = st.selectbox("¿Cuál es tu rango de edad preferido para los libros?", ["16+", "18+"])
-language = st.selectbox("¿En qué idioma prefieres leer?", ["es", "en"])
+genre = st.multiselect("¿Qué géneros te gustan?", options["genres"])
+themes = st.multiselect("¿Qué temas te interesan?", options["themes"])
+tone = st.selectbox("¿Qué tono prefieres?", options["tone"])
+style = st.selectbox("¿Qué estilo narrativo prefieres?", options["style"])
+emotion_tags = st.multiselect("¿Qué emociones te gusta que evoque un libro?", options["emotion_tags"])
+age_range = st.selectbox("¿Cuál es tu rango de edad preferido para los libros?", options["age_range"])
+language = st.selectbox("¿En qué idioma prefieres leer?", options.get("language", ["es", "en"]))
 
 # ---------------------------
 # 2. Test Big Five (OCEAN)
@@ -66,7 +72,7 @@ personality = {
 }
 
 # ---------------------------
-# 3. Validación y envío a API
+# 3. Envío a la API
 # ---------------------------
 if st.button("🔍 Obtener recomendación"):
     if not genre or not themes or not emotion_tags:
@@ -111,6 +117,7 @@ if st.button("🔍 Obtener recomendación"):
                 """)
             else:
                 st.error(f"⚠️ {response.json().get('detail', 'Error en la respuesta de la API.')}")
+
         except Exception as e:
             st.error("🚫 Error al conectar con la API.")
             st.text(str(e))

@@ -6702,251 +6702,6 @@
         "year": 1968
     },
     {
-        "title": "Brave New World",
-        "author": "Aldous Huxley",
-        "subjects": [
-            "Utopias",
-            "Brainwashing",
-            "Moral and ethical aspects of Science",
-            "Fiction",
-            "Science and state",
-            "Social problems",
-            "Passivity (Psychology)",
-            "Culture",
-            "Propaganda",
-            "Genetic engineering",
-            "Science",
-            "English fiction",
-            "Science fiction",
-            "Dystopias",
-            "Totalitarianism",
-            "Collectivism",
-            "Control (Psychology)",
-            "History and criticism",
-            "Ciencia-ficción",
-            "Lavado de cerebro",
-            "Ficción",
-            "Science-fiction anglaise",
-            "Science-fiction",
-            "Reading Level-Grade 9",
-            "Reading Level-Grade 11",
-            "Reading Level-Grade 10",
-            "Reading Level-Grade 12",
-            "Gesellschaft",
-            "Moral and ethical aspects",
-            "Totalitarismus",
-            "Ethics",
-            "British and irish fiction (fictional works by one author)",
-            "Fiction, psychological",
-            "Fiction, political",
-            "Fiction, science fiction, general",
-            "Long Now Manual for Civilization",
-            "Spanish fiction",
-            "Capitalism",
-            "Dystopia",
-            "satire",
-            "class systems",
-            "London",
-            "future",
-            "capitalist civilization",
-            "English Science fiction",
-            "Large type books",
-            "Psychological fiction",
-            "Political fiction",
-            "Classics",
-            "Dystopian",
-            "New York Times reviewed",
-            "Fiction, general",
-            "English literature",
-            "American fiction (fictional works by one author)",
-            "Control (Psicología)",
-            "Aspectos morales y éticos",
-            "Ciencia y Estado",
-            "Ciencia",
-            "collectionID:ConroeChallenge",
-            "Audiobooks",
-            "Atomic bomb",
-            "Desertification",
-            "Radioactive pollution",
-            "Environmental aspects",
-            "Nature",
-            "Effect of human beings on",
-            "Realism in literature",
-            "Fiction in english",
-            "Angleška književnost",
-            "Roman",
-            "Human behavior",
-            "Forecasting",
-            "Passivité (Psychologie)",
-            "Romans, nouvelles",
-            "Totalitarisme",
-            "Collectivisme"
-        ],
-        "description": "",
-        "first_publish_year": 1932,
-        "genres": [
-            "Utopias",
-            "Brainwashing"
-        ],
-        "subgenres": [
-            "Moral and ethical aspects of Science",
-            "Fiction"
-        ],
-        "themes": [
-            "Science and state",
-            "Social problems"
-        ],
-        "emotion_tags": [
-            "alerta",
-            "angustia"
-        ],
-        "tone": "luminoso",
-        "style": "literario",
-        "age_range": "16+",
-        "personality_match": [
-            "Bajo neuroticismo",
-            "Alta apertura"
-        ],
-        "year": 1932
-    },
-    {
-        "title": "Мы",
-        "author": "Евгений Иванович Замятин",
-        "subjects": [
-            "Literature: Texts",
-            "Untranslated Fiction - General",
-            "Literature - Classics / Criticism",
-            "Literary Criticism",
-            "Russian & Former Soviet Union",
-            "Fiction, science fiction, general",
-            "Fiction, dystopian",
-            "Classic Literature",
-            "Fiction",
-            "Science Fiction",
-            "Political fiction",
-            "Dystopias",
-            "Russian fiction",
-            "Russian prose",
-            "totalitarianism",
-            "Russian satire",
-            "dystopia",
-            "Russian language materials",
-            "Authoritarianism",
-            "Modern fiction",
-            "Russian Novel And Short Story",
-            "Literary",
-            "Fiction / Literary",
-            "Continental european fiction (fictional works by one author)",
-            "Corrupt practices",
-            "Political science",
-            "Electronic surveillance",
-            "Criticism and interpretation",
-            "Fiction, general",
-            "Soviet union, fiction",
-            "Biography",
-            "My (Zami︠a︡tin, Evgeniĭ Ivanovich)",
-            "Science fiction, Russian",
-            "Russian Science fiction",
-            "Group identity",
-            "Pg3476.z34 m913 1983",
-            "Russian fiction--20th century",
-            "Satire, russian",
-            "Totalitarianism and literature",
-            "Pg3476.z34 m913 2006",
-            "891.73/42",
-            "Fiction, romance, general",
-            "Translations into English",
-            "Utopias"
-        ],
-        "description": "",
-        "first_publish_year": 1924,
-        "genres": [
-            "Literature: Texts",
-            "Untranslated Fiction - General"
-        ],
-        "subgenres": [
-            "Literature - Classics / Criticism",
-            "Literary Criticism"
-        ],
-        "themes": [
-            "Russian & Former Soviet Union",
-            "Fiction, science fiction, general"
-        ],
-        "emotion_tags": [],
-        "tone": "reflexivo",
-        "style": "literario",
-        "age_range": "16+",
-        "personality_match": [
-            "Alta apertura",
-            "Bajo neuroticismo"
-        ],
-        "year": 1924
-    },
-    {
-        "title": "When the Sleeper Awakes",
-        "author": "H. G. Wells",
-        "subjects": [
-            "Fiction",
-            "Twenty-first century",
-            "Technological innovations",
-            "Time travel",
-            "Science fiction",
-            "Literature",
-            "Classic Literature",
-            "British and irish fiction (fictional works by one author)",
-            "Fiction, fantasy, general",
-            "Fiction, science fiction, general",
-            "Dystopias",
-            "English literature",
-            "Twenty-second century",
-            "Voyages dans le temps",
-            "Littérature",
-            "Littérature classique",
-            "Fiction, dystopian",
-            "Dystopias in literature",
-            "Dystopian",
-            "Dystonia",
-            "Dystopia",
-            "FICTION / Dystopian",
-            "Dystopian fiction",
-            "Dystopies",
-            "Dystopie",
-            "Dystopies -- Romans, nouvelles, etc. pour la jeunesse",
-            "Dystopies dans la littérature",
-            "Dystopies -- Romans, nouvelles, etc",
-            "Dystopier i litteraturen",
-            "Sience-Fiction Dystopie",
-            "Young adult fiction, dystopian",
-            "Littérature anglaise"
-        ],
-        "description": "",
-        "first_publish_year": 1899,
-        "genres": [
-            "Fiction",
-            "Twenty-first century"
-        ],
-        "subgenres": [
-            "Technological innovations",
-            "Time travel"
-        ],
-        "themes": [
-            "Science fiction",
-            "Literature"
-        ],
-        "emotion_tags": [
-            "alerta",
-            "angustia"
-        ],
-        "tone": "dinámico",
-        "style": "directo",
-        "age_range": "16+",
-        "personality_match": [
-            "Alta responsabilidad",
-            "Alta extraversión"
-        ],
-        "year": 1899
-    },
-    {
         "title": "The Road",
         "author": "Cormac McCarthy",
         "subjects": [
@@ -9711,42 +9466,6 @@
             "Alta extraversión"
         ],
         "year": 2005
-    },
-    {
-        "title": "Questions of Faith",
-        "author": "Sarah Wallin-Huff",
-        "subjects": [
-            "adventure",
-            "fantasy",
-            "dystopia",
-            "mythology",
-            "scifi",
-            "mystery",
-            "action"
-        ],
-        "description": "",
-        "first_publish_year": 2017,
-        "genres": [
-            "adventure",
-            "fantasy"
-        ],
-        "subgenres": [
-            "dystopia",
-            "mythology"
-        ],
-        "themes": [
-            "scifi",
-            "mystery"
-        ],
-        "emotion_tags": [],
-        "tone": "luminoso",
-        "style": "literario",
-        "age_range": "16+",
-        "personality_match": [
-            "Alta responsabilidad",
-            "Alta extraversión"
-        ],
-        "year": 2017
     },
     {
         "title": "Rebels of Eden",
@@ -17389,353 +17108,6 @@
         "year": 1994
     },
     {
-        "title": "Alice's Adventures in Wonderland",
-        "author": "Lewis Carroll",
-        "subjects": [
-            "Alice (fictitious character : carroll), fiction",
-            "British and irish fiction (fictional works by one author)",
-            "Fiction, fantasy, general",
-            "JUVENILE FICTION",
-            "classics",
-            "Fantasy & Magic",
-            "Imagination & Play",
-            "adventure and adventurers",
-            "adventure and adventurers, fiction",
-            "adventure stories",
-            "adventure travel",
-            "animals",
-            "anthropomorphism",
-            "artists' illustrated books",
-            "books and reading",
-            "child and youth fiction",
-            "children",
-            "children's fiction",
-            "children's literature",
-            "children's literature, english",
-            "children's stories",
-            "children's stories, english",
-            "classic literature",
-            "coloring books",
-            "croquet",
-            "cuentos infantiles ingleses",
-            "curiosidad",
-            "curiosidad en los niños",
-            "curiosity",
-            "curiosity in children",
-            "english",
-            "english adventure stories",
-            "english fantastic fiction",
-            "english fantasy fiction",
-            "english fantasy literature",
-            "english language",
-            "english literature",
-            "english nonsense verses",
-            "fairy tales",
-            "fantasy",
-            "fantasy fiction",
-            "fantasy in fiction",
-            "fantasy  magic",
-            "fantasía",
-            "ficción juvenil",
-            "fiction",
-            "friendship",
-            "girls",
-            "girls, fiction",
-            "hookahs",
-            "humor",
-            "humorous stories",
-            "illustrations",
-            "imaginary places",
-            "juvenile literature",
-            "legends",
-            "literary nonsense",
-            "logic",
-            "lugares imaginarios",
-            "mythical animals",
-            "niñas",
-            "nonsense verses",
-            "novela",
-            "novela fantástica",
-            "novela juvenil",
-            "open library staff picks",
-            "picture books",
-            "playing cards",
-            "rabbits",
-            "readers",
-            "reading materials",
-            "short novel",
-            "tea",
-            "texts",
-            "Alice (Fictitious character : Carroll)",
-            "English language, textbooks for foreign speakers",
-            "Fantastique",
-            "Enfants",
-            "Affirmation de soi",
-            "Spanish language materials",
-            "Alicia (Personaje literario : Carroll)",
-            "Spanish language",
-            "nyt:chapter-books=2010-02-21",
-            "New York Times bestseller",
-            "Literatura infanto-juvenil",
-            "Literatura inglesa",
-            "Carroll, lewis, 1832-1898",
-            "Children's literature, history and criticism",
-            "Children, books and reading",
-            "Crocheting",
-            "Fiction, general",
-            "Fantasy fiction, history and criticism",
-            "Toy and movable books",
-            "Imagination",
-            "Textbooks for foreign speakers",
-            "Readers for new literates",
-            "High interest-low vocabulary books",
-            "Science fiction",
-            "CUENTO INFANTIL INGLES",
-            "History and criticism",
-            "Translations into Irish",
-            "Irish literature",
-            "Swahili language",
-            "Ficc ʹa o (ge nero)",
-            "Shi jie wen xue",
-            "Xiao shuo",
-            "Fantasi a",
-            "Tong hua",
-            "Suo xie",
-            "Shao er du wu",
-            "Pin yin du wu",
-            "Children's stories, Chinese",
-            "Chinese language",
-            "Translations into Polish",
-            "Ying yu",
-            "Yu yan du wu",
-            "Decision making",
-            "Juvenile Wit and humor",
-            "Conduct of life",
-            "Illusion (Philosophy)",
-            "Innocence (Psychology)",
-            "Dreams",
-            "Courts and courtiers",
-            "Theft",
-            "Courts",
-            "Curiosité",
-            "Romans, nouvelles, etc. pour la jeunesse",
-            "Prise de décision",
-            "Humour pour la jeunesse",
-            "Morale pratique",
-            "Lieux imaginaires",
-            "Illusion (Philosophie)",
-            "Rêves",
-            "Cartes à jouer",
-            "Cours et courtisans",
-            "Croquet (Jeu)",
-            "Vol (Droit)",
-            "Tribunaux",
-            "Histoires pour enfants anglaises",
-            "Literature, collections",
-            "Fiction, short stories (single author)",
-            "Contes de fées",
-            "English fiction",
-            "Translations into Ladino",
-            "Nonsense literature",
-            "Fantasmes",
-            "Dinosaurier",
-            "Utdöda djur",
-            "Urtidsdjur",
-            "Forntiden",
-            "Geologi",
-            "Evolution",
-            "Jorden",
-            "Fantastiske fortællinger",
-            "Translations into Yiddish",
-            "Criticism and interpretation",
-            "History",
-            "Alice's adventures in Wonderland (Carroll, Lewis)",
-            "Alice in Wonderland;",
-            "North",
-            "Rural-urban migration",
-            "Russian language",
-            "Shorthand",
-            "Gregg",
-            "Roman anglais",
-            "Erwachsenwerden",
-            "Kultur",
-            "Logik",
-            "Mädchen",
-            "Philosophie",
-            "Reise",
-            "Sprache",
-            "Traumland"
-        ],
-        "description": "",
-        "first_publish_year": 1865,
-        "genres": [
-            "Alice (fictitious character : carroll), fiction",
-            "British and irish fiction (fictional works by one author)"
-        ],
-        "subgenres": [
-            "Fiction, fantasy, general",
-            "JUVENILE FICTION"
-        ],
-        "themes": [
-            "classics",
-            "Fantasy & Magic"
-        ],
-        "emotion_tags": [],
-        "tone": "luminoso",
-        "style": "directo",
-        "age_range": "16+",
-        "personality_match": [
-            "Alta responsabilidad",
-            "Alta extraversión"
-        ],
-        "year": 1865
-    },
-    {
-        "title": "The Wonderful Wizard of Oz",
-        "author": "L. Frank Baum",
-        "subjects": [
-            "Witches",
-            "Toy and movable books",
-            "Spanish language materials",
-            "Fiction",
-            "Wizards",
-            "Juvenile literature",
-            "Wizards in fiction",
-            "Children's stories, Russian",
-            "Specimens",
-            "Imaginary voyages in fiction",
-            "Classic Literature",
-            "Imaginary Voyages",
-            "Children's stories, American",
-            "Adventure and adventurers",
-            "Open Library Staff Picks",
-            "Books and reading",
-            "Children's stories",
-            "Witches in fiction",
-            "History",
-            "Juvenile fiction",
-            "Latin language materials",
-            "Fairy tales",
-            "Children",
-            "Contes americains",
-            "Ouvrages pour la jeunesse",
-            "Fantasy",
-            "Fantasy fiction",
-            "Fantastic fiction",
-            "Novela fantástica",
-            "Fantasía",
-            "Teenage girls",
-            "Quests (Expeditions)",
-            "Oz (Imaginary place)",
-            "Children's fiction",
-            "Oz (imaginary place), fiction",
-            "Fiction, fantasy, general",
-            "Young adult fiction",
-            "Fiction, science fiction, general",
-            "Wizards, fiction",
-            "Fantasy & Magic",
-            "Classics",
-            "Literature and fiction, juvenile",
-            "American Fantasy fiction",
-            "History and criticism",
-            "Dorothy Gale (Fictional character)",
-            "French language materials",
-            "American literature",
-            "Children: Babies Toddlers",
-            "Wizard of Oz (Fictitious character)",
-            "Friendship",
-            "Courage",
-            "Adventure stories",
-            "Dorothy Gale (Fictitious character)",
-            "Children's literature",
-            "General",
-            "Contes américains",
-            "Roman pour la jeunesse",
-            "Contes",
-            "Tong hua",
-            "Er tong wen xue",
-            "Han yu pin yin",
-            "Er tong du wu",
-            "Translations into Chinese",
-            "Suo xie ben",
-            "Chinese language materials",
-            "Ying yu",
-            "Dui zhao du wu",
-            "Han yu",
-            "Pictorial works",
-            "Robots, fiction",
-            "Science fiction",
-            "Criticism and interpretation",
-            "Wizard of Oz (Baum, L. Frank)",
-            "Fiction, general",
-            "Film adaptations",
-            "Oz (Imaginary place) -- Juvenile fiction",
-            "Fantasy literature",
-            "Courage -- Juvenile fiction",
-            "Home -- Juvenile fiction",
-            "Good and evil -- Juvenile fiction",
-            "Dreams -- Juvenile fiction",
-            "Gale, Dorothy (Fictitious character) -- Juvenile fiction",
-            "Cowardly Lion (Fictitious character) -- Juvenile fiction",
-            "Cyclones -- Juvenile fiction",
-            "Scarecrow (Fictitious character from Baum) -- Juvenile fiction",
-            "Toto (Fictitious character) -- Juvenile fiction",
-            "Witches -- Juvenile fiction",
-            "Wizard of Oz (Fictitious character) -- Juvenile fiction",
-            "Tin Woodman (Fictitious character) -- Juvenile fiction",
-            "Adventure and adventurers, fiction",
-            "Witches, fiction",
-            "Scarecrow (Fictitious character : Baum)",
-            "Tin Woodman (Fictitious character)",
-            "Cowardly Lion (Fictitious character)",
-            "Oz (Lieu imaginaire)",
-            "Romans, nouvelles, etc. pour la jeunesse",
-            "Friendship, fiction",
-            "People with disabilities, fiction",
-            "Great britain, fiction",
-            "American fiction (fictional works by one author)",
-            "Picture books",
-            "Fables",
-            "Toto (Fictitious character)",
-            "Good and evil",
-            "Motion picture plays",
-            "Juvenile drama",
-            "JUVENILE FICTION / Fantasy & Magic",
-            "Fiction, action & adventure",
-            "Jeugdboeken ; verhalen",
-            "Literature and fiction (general)",
-            "Drama",
-            "Illustrations",
-            "Long Now Manual for Civilization"
-        ],
-        "description": "",
-        "first_publish_year": 1899,
-        "genres": [
-            "Witches",
-            "Toy and movable books"
-        ],
-        "subgenres": [
-            "Spanish language materials",
-            "Fiction"
-        ],
-        "themes": [
-            "Wizards",
-            "Juvenile literature"
-        ],
-        "emotion_tags": [
-            "maravilla",
-            "asombro"
-        ],
-        "tone": "dinámico",
-        "style": "literario",
-        "age_range": "16+",
-        "personality_match": [
-            "Bajo neuroticismo",
-            "Alta extraversión"
-        ],
-        "year": 1899
-    },
-    {
         "title": "Treasure Island",
         "author": "Robert Louis Stevenson",
         "subjects": [
@@ -18777,94 +18149,6 @@
             "Alta amabilidad"
         ],
         "year": 1600
-    },
-    {
-        "title": "The Lost World",
-        "author": "Arthur Conan Doyle",
-        "subjects": [
-            "Adventure stories",
-            "Atlantis",
-            "Dinosaurs",
-            "Discovery and exploration",
-            "English Detective and mystery stories",
-            "Fiction",
-            "Fiction in French",
-            "Prehistoric peoples",
-            "Professor Challenger (Fictitious character)",
-            "Scientific expeditions",
-            "Translations into Czech",
-            "Translations into Russian",
-            "Science fiction",
-            "Fantasy",
-            "Discoveries in geography",
-            "Children's fiction",
-            "Dinosaurs, fiction",
-            "Fiction, fantasy, general",
-            "Fiction, action & adventure",
-            "Challenger, professor (fictitious character), fiction",
-            "South america, fiction",
-            "Books and reading",
-            "Public libraries",
-            "Activity programs",
-            "Criticism and interpretation",
-            "Reading promotion",
-            "Young adults' libraries",
-            "Westminster Libraries and Archives",
-            "Youth",
-            "Lost world (Doyle, Arthur Conan)",
-            "Children",
-            "British and irish fiction (fictional works by one author)",
-            "Fiction, science fiction, general",
-            "Scientists, fiction",
-            "English literature",
-            "Fiction, historical, general",
-            "Romans, nouvelles",
-            "Dinosaures",
-            "Challenger, Professor (Personaje literario)",
-            "Novela",
-            "Pueblos prehistóricos",
-            "Dinosaurios",
-            "Adventure and adventurers, fiction",
-            "Fiction, general",
-            "Challenger, Professor (Fictitious character) -- Fiction",
-            "Fantasy fiction",
-            "South America -- Fiction",
-            "Prehistoric peoples -- Fiction",
-            "Dinosaurs -- Fiction",
-            "Literature and fiction, action and adventure",
-            "New York Times reviewed",
-            "Prehistoric peoples, fiction",
-            "Scientific expeditions, fiction",
-            "South America",
-            "English Fantasy fiction",
-            "Long now manual for civilization"
-        ],
-        "description": "",
-        "first_publish_year": 1900,
-        "genres": [
-            "Adventure stories",
-            "Atlantis"
-        ],
-        "subgenres": [
-            "Dinosaurs",
-            "Discovery and exploration"
-        ],
-        "themes": [
-            "English Detective and mystery stories",
-            "Fiction"
-        ],
-        "emotion_tags": [
-            "maravilla",
-            "asombro"
-        ],
-        "tone": "dinámico",
-        "style": "literario",
-        "age_range": "16+",
-        "personality_match": [
-            "Alta responsabilidad",
-            "Alta amabilidad"
-        ],
-        "year": 1900
     },
     {
         "title": "The Marvelous Land of Oz",
@@ -20151,136 +19435,6 @@
         "year": 1903
     },
     {
-        "title": "Nineteen Eighty-Four",
-        "author": "George Orwell",
-        "subjects": [
-            "futurology",
-            "censorship",
-            "surveillance",
-            "rebels",
-            "sting operations",
-            "historical negationism",
-            "memory holes",
-            "thoughtcrime",
-            "Outer Party",
-            "resistance movements",
-            "Newspeak",
-            "perpetual war",
-            "telescreens",
-            "cult of personality",
-            "Ingsoc",
-            "Satirical literature",
-            "English science fiction",
-            "FICTION CLASSICS",
-            "CLASSICS",
-            "CONTEMPORARY FICTION",
-            "Man-woman relationships",
-            "Politique",
-            "Political fiction",
-            "Totalitarisme",
-            "Fiction",
-            "Romans",
-            "Facsimiles",
-            "Totalitarismo",
-            "Husbands",
-            "Classic Literature",
-            "Manuscripts",
-            "Novela política",
-            "Middle aged men",
-            "Insurance agents",
-            "open_syllabus_project",
-            "Distopías",
-            "Dystopias",
-            "Ficción",
-            "Ciencia-ficción",
-            "Cautionary tales and verse",
-            "Dystopias in literature",
-            "Suburban life",
-            "English fiction",
-            "Totalitarianism",
-            "Indic fiction (English)",
-            "Science Fiction",
-            "Traducciones al español",
-            "Novela",
-            "Novela inglesa",
-            "Zukunft",
-            "Polizeistaat",
-            "English Political fiction",
-            "Totalitarianism and literature",
-            "History and criticism",
-            "Reading Level-Grade 11",
-            "Reading Level-Grade 12",
-            "British and irish fiction (fictional works by one author)",
-            "London (england), fiction",
-            "Fiction, political",
-            "Fiction, dystopian",
-            "Fiction, science fiction, general",
-            "English literature",
-            "Correspondence",
-            "Journalists",
-            "English Authors",
-            "Correspondence..",
-            "Authors and publishers",
-            "Fiction, short stories (single author)",
-            "British and irish drama (dramatic works by one author)",
-            "Brainwashing",
-            "Authoritarianism",
-            "NOVELAS INGLESAS",
-            "Fiction, historical, general",
-            "Political science",
-            "Satire",
-            "Romans, nouvelles",
-            "Literature",
-            "Fiction, general",
-            "Psychological fiction",
-            "Drama",
-            "Dystopian plays",
-            "Essays",
-            "Literary",
-            "Nationalism",
-            "Lexicography",
-            "Language & literary studies",
-            "English manuscripts",
-            "Translations into russian",
-            "Translations into urdu",
-            "Fantasy",
-            "Translations into spanish",
-            "Nineteen eighty-four (orwell, george)",
-            "Translating and interpreting",
-            "Comic books, strips",
-            "Adaptations",
-            "Totalitarianism--fiction",
-            "Pr6029.r8 n49 2003",
-            "Long now manual for civilization"
-        ],
-        "description": "",
-        "first_publish_year": 1949,
-        "genres": [
-            "futurology",
-            "censorship"
-        ],
-        "subgenres": [
-            "surveillance",
-            "rebels"
-        ],
-        "themes": [
-            "sting operations",
-            "historical negationism"
-        ],
-        "emotion_tags": [
-            "maravilla",
-            "asombro"
-        ],
-        "tone": "luminoso",
-        "style": "literario",
-        "age_range": "16+",
-        "personality_match": [
-            "Alta apertura",
-            "Alta responsabilidad"
-        ],
-        "year": 1949
-    },
-    {
         "title": "Le avventure di Pinocchio",
         "author": "Carlo Collodi",
         "subjects": [
@@ -20472,127 +19626,6 @@
             "Bajo neuroticismo"
         ],
         "year": 1911
-    },
-    {
-        "title": "Le Tour du Monde en Quatre-Vingts Jours",
-        "author": "Jules Verne",
-        "subjects": [
-            "Viajes alrededor del mundo",
-            "Translations into Gujarati",
-            "Fiction",
-            "Translations from French",
-            "Children's stories, French",
-            "Historical fiction",
-            "Korean language materials",
-            "Adventure and adventurers",
-            "Open Library Staff Picks",
-            "Children's stories, English",
-            "Adventure stories",
-            "Wagers",
-            "French fiction",
-            "Juvenile fiction",
-            "Translations into English",
-            "Voyages around the world",
-            "Ficción",
-            "Adventure fiction",
-            "French Science fiction",
-            "Submarines (Ships)",
-            "Sea stories",
-            "Science",
-            "Continental european fiction (fictional works by one author)",
-            "Fiction, action & adventure",
-            "Children's fiction",
-            "Voyages and travels, fiction",
-            "Adventure and adventurers, fiction",
-            "Balloons, fiction",
-            "Large type books",
-            "Travel",
-            "Flights around the world",
-            "English fiction",
-            "Translations into French",
-            "Readers",
-            "French language",
-            "Classic Literature",
-            "British and irish fiction (fictional works by one author)",
-            "Roman d'aventures",
-            "Roman pour la jeunesse",
-            "Spanish language books",
-            "Spanish language",
-            "English language",
-            "Textbooks for foreign speakers",
-            "Readers for new literates",
-            "Travelers",
-            "Criticism and interpretation",
-            "Critique et interprétation",
-            "Tour du monde en quatre-vingts jours (Verne, Jules)",
-            "Aventures",
-            "Romans",
-            "Romans, nouvelles, etc. pour la jeunesse",
-            "Littérature pour la jeunesse",
-            "Ouvrages pour la jeunesse",
-            "Voyages autour du monde",
-            "Paris",
-            "Employés de maison",
-            "Policiers",
-            "Erreur sur la personne",
-            "Lectures et morceaux choisis",
-            "Lecture (Enseignement Primaire)",
-            "Problèmes et exercices",
-            "Voyages",
-            "Thriller",
-            "Literatura",
-            "Action & Adventure - General",
-            "Weltreise",
-            "Fantasy",
-            "Romance literature",
-            "Detectives, fiction",
-            "March family (fictitious characters), fiction",
-            "American fiction (fictional works by one author)",
-            "Sisters, fiction",
-            "Vols autour du monde",
-            "Fiction, fantasy, general",
-            "Illustraties",
-            "Frans",
-            "Comics & graphic novels, general",
-            "Aeronautics",
-            "Ke xue huan xiang xiao shuo",
-            "Chang pian xiao shuo",
-            "Romans, nouvelles",
-            "General",
-            "Suo xie ben",
-            "Littérature française",
-            "Histoire et critique",
-            "Fiction, general",
-            "Long Now Manual for Civilization",
-            "Adventure",
-            "Science fiction"
-        ],
-        "description": "",
-        "first_publish_year": 1872,
-        "genres": [
-            "Viajes alrededor del mundo",
-            "Translations into Gujarati"
-        ],
-        "subgenres": [
-            "Fiction",
-            "Translations from French"
-        ],
-        "themes": [
-            "Children's stories, French",
-            "Historical fiction"
-        ],
-        "emotion_tags": [
-            "maravilla",
-            "asombro"
-        ],
-        "tone": "luminoso",
-        "style": "directo",
-        "age_range": "16+",
-        "personality_match": [
-            "Bajo neuroticismo",
-            "Alta amabilidad"
-        ],
-        "year": 1872
     },
     {
         "title": "Phantastes",
@@ -21525,98 +20558,6 @@
         "year": 1999
     },
     {
-        "title": "The Secret Agent",
-        "author": "Joseph Conrad",
-        "subjects": [
-            "Anarchists, fiction",
-            "Conspiracies, fiction",
-            "Bombings, fiction",
-            "Terrorism, fiction",
-            "Royal Greenwich Observatory, fiction",
-            "Drama",
-            "Trading companies",
-            "Dutch",
-            "Classic Literature",
-            "Moles (Spies)",
-            "Political",
-            "British and Irish fiction (fictional works by one author)",
-            "English literature",
-            "Africa, fiction",
-            "Fiction, psychological",
-            "London (England), fiction",
-            "Fiction, political",
-            "Large type books",
-            "English Romances",
-            "Romance Ingles",
-            "English fiction",
-            "Drama (dramatic works by one author)",
-            "Terrorists, fiction",
-            "Fiction, thrillers, espionage",
-            "Jewish",
-            "Christian",
-            "Biographical",
-            "Medical",
-            "Suspense",
-            "Science Fiction",
-            "Religious",
-            "Psychological",
-            "Occult & Supernatural",
-            "Mystery & Detective",
-            "Hard-Boiled",
-            "Historical",
-            "Fantasy",
-            "Classics",
-            "Modern & contemporary fiction (post c 1945)",
-            "Radicalism",
-            "Collected works (single author, multi-form)",
-            "Fiction, mystery & detective, general",
-            "Novela policíaca inglesa",
-            "American fiction (fictional works by one author)",
-            "England, fiction",
-            "Children's fiction",
-            "Mystery and detective stories",
-            "Conrad, Joseph, 1857-1924. Secret agent",
-            "Conrad, Joseph",
-            "Secret agent (Conrad, Joseph)",
-            "Conspiration -- Romans, nouvelles, etc",
-            "Anarchistes -- Romans, nouvelles, etc",
-            "Attentats à la bombe -- Romans, nouvelles, etc",
-            "Play",
-            "Terrorism",
-            "Fiction",
-            "Conspiracies",
-            "Anarchists",
-            "Bombings",
-            "Royal Greenwich Observatory"
-        ],
-        "description": "",
-        "first_publish_year": 1907,
-        "genres": [
-            "Anarchists, fiction",
-            "Conspiracies, fiction"
-        ],
-        "subgenres": [
-            "Bombings, fiction",
-            "Terrorism, fiction"
-        ],
-        "themes": [
-            "Royal Greenwich Observatory, fiction",
-            "Drama"
-        ],
-        "emotion_tags": [
-            "maravilla",
-            "asombro"
-        ],
-        "tone": "oscuro",
-        "style": "literario",
-        "age_range": "16+",
-        "personality_match": [
-            "Alta responsabilidad",
-            "Bajo neuroticismo"
-        ],
-        "year": 1907
-    },
-    {
         "title": "Мастер и Маргарита",
         "author": "Михаил Афанасьевич Булгаков",
         "subjects": [
@@ -21856,57 +20797,6 @@
             "Alta apertura"
         ],
         "year": 1938
-    },
-    {
-        "title": "The Moon Pool",
-        "author": "A. Merritt",
-        "subjects": [
-            "Fiction",
-            "Botanists",
-            "Geographical myths",
-            "Paranormal fiction",
-            "Kidnapping",
-            "Fantasy",
-            "Imaginary places",
-            "Legends",
-            "Fiction, science fiction, general",
-            "Fiction, mystery & detective, general",
-            "Fiction, fantasy, general",
-            "Science fiction",
-            "Pacific area, fiction",
-            "Oceania -- Fiction",
-            "Geographical myths -- Fiction",
-            "Botanists -- Fiction",
-            "Mythes géographiques",
-            "Romans, nouvelles",
-            "Botanistes"
-        ],
-        "description": "",
-        "first_publish_year": 1919,
-        "genres": [
-            "Fiction",
-            "Botanists"
-        ],
-        "subgenres": [
-            "Geographical myths",
-            "Paranormal fiction"
-        ],
-        "themes": [
-            "Kidnapping",
-            "Fantasy"
-        ],
-        "emotion_tags": [
-            "maravilla",
-            "asombro"
-        ],
-        "tone": "oscuro",
-        "style": "directo",
-        "age_range": "16+",
-        "personality_match": [
-            "Alta extraversión",
-            "Bajo neuroticismo"
-        ],
-        "year": 1919
     },
     {
         "title": "Harry Potter and the Order of the Phoenix",
@@ -22227,68 +21117,6 @@
         "year": 1964
     },
     {
-        "title": "A Princess of Mars",
-        "author": "Edgar Rice Burroughs",
-        "subjects": [
-            "John Carter (Fictitious character)",
-            "Fiction",
-            "Classic Literature",
-            "Dejah Thoris (Fictitious character)",
-            "Princesses",
-            "Princesses in fiction",
-            "Science fiction",
-            "Translations into Russian",
-            "Fantasy",
-            "Barsoom",
-            "Large type books",
-            "Fiction, science fiction, action & adventure",
-            "Carter, john (fictitious character), fiction",
-            "Barsoom (imaginary place), fiction",
-            "Fiction, science fiction, general",
-            "Fiction, action & adventure",
-            "Social life and customs",
-            "Folklore",
-            "Music and dance",
-            "Manners and customs",
-            "American literature",
-            "Fiction, romance, science fiction",
-            "Fiction, thrillers, suspense",
-            "American Science fiction",
-            "Romans, nouvelles",
-            "Carter, John (Fictitious character)--Fiction",
-            "Dejah Thoris (Fictitious character)--Fiction",
-            "Princesses--Fiction",
-            "Mars (Planet)--Fiction",
-            "Juvenile fiction"
-        ],
-        "description": "",
-        "first_publish_year": 1917,
-        "genres": [
-            "John Carter (Fictitious character)",
-            "Fiction"
-        ],
-        "subgenres": [
-            "Classic Literature",
-            "Dejah Thoris (Fictitious character)"
-        ],
-        "themes": [
-            "Princesses",
-            "Princesses in fiction"
-        ],
-        "emotion_tags": [
-            "maravilla",
-            "asombro"
-        ],
-        "tone": "reflexivo",
-        "style": "poético",
-        "age_range": "16+",
-        "personality_match": [
-            "Alta extraversión",
-            "Alta responsabilidad"
-        ],
-        "year": 1917
-    },
-    {
         "title": "The Princess and the Goblin",
         "author": "George MacDonald",
         "subjects": [
@@ -22441,51 +21269,6 @@
             "Alta responsabilidad"
         ],
         "year": 1967
-    },
-    {
-        "title": "The wood beyond the world",
-        "author": "William Morris",
-        "subjects": [
-            "Classic Literature",
-            "Fantasy",
-            "Fiction",
-            "English fiction",
-            "British and irish fiction (fictional works by one author)",
-            "Fiction, fantasy, general",
-            "English Fantasy fiction",
-            "Imaginary places",
-            "Quests (Expeditions)",
-            "Fantasy fiction",
-            "Science fiction",
-            "English literature",
-            "Private presses"
-        ],
-        "description": "",
-        "first_publish_year": 1894,
-        "genres": [
-            "Classic Literature",
-            "Fantasy"
-        ],
-        "subgenres": [
-            "Fiction",
-            "English fiction"
-        ],
-        "themes": [
-            "British and irish fiction (fictional works by one author)",
-            "Fiction, fantasy, general"
-        ],
-        "emotion_tags": [
-            "maravilla",
-            "asombro"
-        ],
-        "tone": "luminoso",
-        "style": "poético",
-        "age_range": "16+",
-        "personality_match": [
-            "Alta responsabilidad",
-            "Alta extraversión"
-        ],
-        "year": 1894
     },
     {
         "title": "The water-babies",
@@ -24186,54 +22969,6 @@
         "year": 1924
     },
     {
-        "title": "A strange manuscript found in a copper cylinder",
-        "author": "James De Mille",
-        "subjects": [
-            "Canadian fiction (English), CIHM",
-            "Roman canadien-anglais, ICMH",
-            "Fiction, mystery & detective, general",
-            "History",
-            "FICTION",
-            "Fantasy",
-            "General",
-            "Canadian fiction",
-            "Canadian literature",
-            "Fiction, science fiction, general",
-            "Sea stories",
-            "Utopias",
-            "Canadian Science fiction",
-            "Fiction, science fiction, action & adventure",
-            "Science fiction",
-            "English literature"
-        ],
-        "description": "",
-        "first_publish_year": 1888,
-        "genres": [
-            "Canadian fiction (English), CIHM",
-            "Roman canadien-anglais, ICMH"
-        ],
-        "subgenres": [
-            "Fiction, mystery & detective, general",
-            "History"
-        ],
-        "themes": [
-            "FICTION",
-            "Fantasy"
-        ],
-        "emotion_tags": [
-            "maravilla",
-            "asombro"
-        ],
-        "tone": "reflexivo",
-        "style": "directo",
-        "age_range": "16+",
-        "personality_match": [
-            "Bajo neuroticismo",
-            "Alta apertura"
-        ],
-        "year": 1888
-    },
-    {
         "title": "Momo oder Die seltsame Geschichte von den Zeit-Dieben und von dem Kind, das den Menschen die gestohlene Zeit zurückbrachte",
         "author": "Michael Ende",
         "subjects": [
@@ -24598,118 +23333,6 @@
         "year": 1952
     },
     {
-        "title": "Catching Fire",
-        "author": "Suzanne Collins",
-        "subjects": [
-            "Action/Adventure",
-            "Fantasy",
-            "teen fiction",
-            "juvenile works",
-            "interdependence",
-            "independence",
-            "Games",
-            "Apocalyptic literature",
-            "Competition",
-            "teenage girls",
-            "sisters",
-            "poverty",
-            "Contests",
-            "Insurgency",
-            "Open Library Staff Picks",
-            "Survival",
-            "Fiction",
-            "Interpersonal relations",
-            "Television programs",
-            "Dystopias",
-            "Adventures and Adventurers",
-            "Television",
-            "Courage",
-            "Bravery",
-            "Heroism",
-            "Defiance and Talking Back",
-            "Adventure and adventurers",
-            "Girls",
-            "Blind",
-            "Books and reading",
-            "Young adult fiction",
-            "Television game shows",
-            "Dystopian",
-            "Science fiction",
-            "Survival Stories",
-            "Self-Esteem & Self-Reliance",
-            "Action & Adventure",
-            "JUVENILE FICTION",
-            "Social Themes",
-            "Survival skills",
-            "Reading Level-Grade 9",
-            "Reading Level-Grade 8",
-            "Reading Level-Grade 11",
-            "Reading Level-Grade 10",
-            "Reading Level-Grade 12",
-            "Children's fiction",
-            "Interpersonal relations, fiction",
-            "Contests, fiction",
-            "Television, fiction",
-            "Survival, fiction",
-            "Reality television programs",
-            "Large type books",
-            "Katniss Everdeen (Fictitious character)",
-            "Spanish language materials",
-            "Supervivencia",
-            "Novela juvenil",
-            "Relaciones humanas",
-            "Insurgencia",
-            "Programas de televisión",
-            "Concursos",
-            "Distopías",
-            "Spanish language",
-            "nyt:chapter-books=2009-09-20",
-            "New York Times bestseller",
-            "Novela",
-            "Televisión",
-            "Programas",
-            "Reading materials",
-            "Phantastische Erzahlung",
-            "Phantastische Literatur",
-            "Wilderness survival",
-            "Révoltes",
-            "Romans, nouvelles, etc. pour la jeunesse",
-            "Habiletés de survie",
-            "Jeux télévisés",
-            "Concours et compétitions",
-            "Dystopies",
-            "Filles",
-            "Fiction, science fiction, general",
-            "Serie:The_Hunger_Games"
-        ],
-        "description": "",
-        "first_publish_year": 2009,
-        "genres": [
-            "Action/Adventure",
-            "Fantasy"
-        ],
-        "subgenres": [
-            "teen fiction",
-            "juvenile works"
-        ],
-        "themes": [
-            "interdependence",
-            "independence"
-        ],
-        "emotion_tags": [
-            "maravilla",
-            "asombro"
-        ],
-        "tone": "oscuro",
-        "style": "directo",
-        "age_range": "16+",
-        "personality_match": [
-            "Bajo neuroticismo",
-            "Alta responsabilidad"
-        ],
-        "year": 2009
-    },
-    {
         "title": "The Lightning Thief",
         "author": "Rick Riordan",
         "subjects": [
@@ -24847,69 +23470,6 @@
             "Alta amabilidad"
         ],
         "year": 1972
-    },
-    {
-        "title": "The Gunslinger",
-        "author": "Stephen King",
-        "subjects": [
-            "succubus",
-            "demons",
-            "American fiction",
-            "fantastic fiction",
-            "adventure fiction",
-            "science fiction",
-            "horror fiction",
-            "fantasy",
-            "Fantasy fiction",
-            "Ciencia-ficción",
-            "Adventure stories",
-            "Fiction",
-            "Cuentos de terror",
-            "Good and evil",
-            "Roland (Fictitious character : King)",
-            "Roland (Fictitious character)",
-            "Reading Level-Grade 7",
-            "Reading Level-Grade 9",
-            "Reading Level-Grade 8",
-            "Reading Level-Grade 11",
-            "Reading Level-Grade 10",
-            "Reading Level-Grade 12",
-            "Dark tower (imaginary place), fiction",
-            "Fiction, fantasy, epic",
-            "Roland (fictitious character : king), fiction",
-            "nyt:combined-print-and-e-book-fiction=2017-07-30",
-            "New York Times bestseller",
-            "Roland of Gilead (Fictitious character)",
-            "Magic",
-            "Horror",
-            "Thrillers",
-            "Supernatural",
-            "Suspense",
-            "Heroes"
-        ],
-        "description": "",
-        "first_publish_year": 1976,
-        "genres": [
-            "succubus",
-            "demons"
-        ],
-        "subgenres": [
-            "American fiction",
-            "fantastic fiction"
-        ],
-        "themes": [
-            "adventure fiction",
-            "science fiction"
-        ],
-        "emotion_tags": [],
-        "tone": "luminoso",
-        "style": "poético",
-        "age_range": "16+",
-        "personality_match": [
-            "Alta amabilidad",
-            "Alta extraversión"
-        ],
-        "year": 1976
     },
     {
         "title": "Artemis Fowl",
@@ -25090,194 +23650,6 @@
             "Bajo neuroticismo"
         ],
         "year": 1983
-    },
-    {
-        "title": "New Moon",
-        "author": "Stephenie Meyer",
-        "subjects": [
-            "Vampires",
-            "Juvenile fiction",
-            "Werewolves",
-            "High schools",
-            "Schools",
-            "Vampiros",
-            "Hombres lobo",
-            "Fiction",
-            "Ficción",
-            "Escuelas secundarias",
-            "Washington (State)",
-            "nyt:series_books=2008-03-15",
-            "New York Times bestseller",
-            "Vampires -- Fiction",
-            "Werewolves -- Fiction",
-            "High schools -- Fiction",
-            "Schools -- Fiction",
-            "Vampires -- Juvenile fiction",
-            "Werewolves -- Juvenile fiction",
-            "High schools -- Juvenile fiction",
-            "Schools -- Juvenile fiction",
-            "Washington (State) -- Fiction",
-            "Washington (State) -- Juvenile fiction",
-            "Barn- och ungdomslitteratur",
-            "YOUNG ADULT FICTION",
-            "Romance",
-            "Skolan",
-            "School stories",
-            "Dating & Sex",
-            "Paranormal",
-            "Social Themes",
-            "Kärlek",
-            "Vampyrer",
-            "Paranormal, Occult & Supernatural",
-            "Vampires, fiction",
-            "Children's fiction",
-            "Werewolves, fiction",
-            "Schools, fiction",
-            "Washington (state), fiction",
-            "Love, fiction",
-            "Love",
-            "Novela",
-            "Fantasy",
-            "Media Tie-In",
-            "School & Education",
-            "Spanish language",
-            "Reading materials",
-            "nyt:series_books=2010-07-11",
-            "Large type books",
-            "Edward Cullen (Fictitious character)",
-            "Bella Swan (Fictitious character)",
-            "Vietnamese fiction",
-            "Cullen, Edward (Personnage fictif)",
-            "Interpersonal relations",
-            "Ecoles",
-            "Romans, nouvelles, etc. pour la jeunesse",
-            "Portuguese language materials",
-            "Romance fiction",
-            "Horror tales",
-            "Phantastische Literatur",
-            "Polish language materials",
-            "Young adult fiction, romance, general",
-            "Young adult fiction, fantasy, general",
-            "Comic books, strips",
-            "Graphic novels",
-            "Romans, nouvelles",
-            "Loups-garous",
-            "Paranormal fiction",
-            "Écoles secondaires",
-            "Écoles"
-        ],
-        "description": "",
-        "first_publish_year": 2006,
-        "genres": [
-            "Vampires",
-            "Juvenile fiction"
-        ],
-        "subgenres": [
-            "Werewolves",
-            "High schools"
-        ],
-        "themes": [
-            "Schools",
-            "Vampiros"
-        ],
-        "emotion_tags": [
-            "maravilla",
-            "ternura",
-            "asombro",
-            "amor"
-        ],
-        "tone": "dinámico",
-        "style": "directo",
-        "age_range": "16+",
-        "personality_match": [
-            "Alta responsabilidad",
-            "Alta amabilidad"
-        ],
-        "year": 2006
-    },
-    {
-        "title": "A Game of Thrones",
-        "author": "George R. R. Martin",
-        "subjects": [
-            "Adult",
-            "Action & Adventure",
-            "Fantasy",
-            "High Fantasy",
-            "Epic",
-            "Epic Fantasy",
-            "Epic Fiction",
-            "Epic Literature",
-            "Fiction, fantasy, epic",
-            "Fiction, fantasy, general",
-            "Science Fiction",
-            "Fantastic Fiction",
-            "Fiction",
-            "Ficción",
-            "Moral Ambiguity",
-            "Betrayal",
-            "Loyalty",
-            "Family",
-            "Revenge",
-            "Vengeance",
-            "Bien y mal",
-            "Civil War",
-            "War and Conflict",
-            "Imaginary Wars and Battles",
-            "Guerras imaginarias",
-            "Politics",
-            "Intrigue",
-            "Feudalism",
-            "Royalty and Nobility",
-            "Kings and Rulers",
-            "Knights",
-            "Courts and Courtiers",
-            "Seasons",
-            "Invierno",
-            "Trial by Combat",
-            "Voyages and Travels",
-            "Walls",
-            "Penal Colonies",
-            "Magic",
-            "Dragons",
-            "Supernatural",
-            "Wights",
-            "Folk Healers",
-            "Incest",
-            "Forced Marriage",
-            "Persistent Vegetative States",
-            "Imaginary Places",
-            "Seven Kingdoms (Imaginary Place)",
-            "Hugo Award Winner",
-            "Ignotus Award Winner",
-            "Locus Award Winner",
-            "New York Times Bestseller"
-        ],
-        "description": "",
-        "first_publish_year": 1996,
-        "genres": [
-            "Adult",
-            "Action & Adventure"
-        ],
-        "subgenres": [
-            "Fantasy",
-            "High Fantasy"
-        ],
-        "themes": [
-            "Epic",
-            "Epic Fantasy"
-        ],
-        "emotion_tags": [
-            "maravilla",
-            "asombro"
-        ],
-        "tone": "oscuro",
-        "style": "poético",
-        "age_range": "16+",
-        "personality_match": [
-            "Alta apertura",
-            "Alta amabilidad"
-        ],
-        "year": 1996
     },
     {
         "title": "The Hound of the Baskervilles",
@@ -25938,111 +24310,6 @@
         "year": 1908
     },
     {
-        "title": "Heart of Darkness",
-        "author": "Joseph Conrad",
-        "subjects": [
-            "Fiction",
-            "Romance",
-            "Degeneration",
-            "Literature",
-            "Description and travel",
-            "Diaries",
-            "Sailors",
-            "Short stories",
-            "English literature",
-            "Suffering",
-            "Trading posts",
-            "Classic Literature",
-            "Travel",
-            "Discovery and exploration",
-            "Mystery",
-            "Open Library Staff Picks",
-            "Drama",
-            "Fugitives from justice",
-            "English Psychological fiction",
-            "LITERATURA INGLESA (HISTÓRIA E CRÍTICA)",
-            "Ship captains",
-            "Conrad, Joseph, 1857-1924. Heart of darkness",
-            "Heart of darkness (Conrad)",
-            "Journeys",
-            "History and criticism",
-            "Imperialism",
-            "Europeans",
-            "Long Now Manual for Civilization",
-            "Romans",
-            "Souffrance",
-            "Literatura inglesa",
-            "Europeens",
-            "Medicine in Literature",
-            "Heart of darkness (Conrad, Joseph)",
-            "Aufsatzsammlung",
-            "Critique",
-            "Roman anglais",
-            "British and irish fiction (fictional works by one author)",
-            "Africa, fiction",
-            "Fiction, psychological",
-            "Conrad, joseph, 1857-1924",
-            "English fiction",
-            "Voyages and travels",
-            "Psychological aspects",
-            "Sea stories",
-            "Doppelgängers",
-            "Fiction, general",
-            "Discoveries in geography",
-            "English language, textbooks for foreign speakers",
-            "Dictionaries",
-            "English language",
-            "Spanish",
-            "French",
-            "In literature",
-            "Imperialism in literature",
-            "Korean",
-            "Chinese",
-            "German",
-            "Européens",
-            "Study guides",
-            "Examinations",
-            "Fiction, historical, general",
-            "Psychological fiction",
-            "Adaptations",
-            "Comic books, strips",
-            "COMICS & GRAPHIC NOVELS / Literary",
-            "COMICS & GRAPHIC NOVELS / Adaptations",
-            "Conrad, joseph, 1857-1924, juvenile literature",
-            "Literary criticism",
-            "European",
-            "Good and evil"
-        ],
-        "description": "",
-        "first_publish_year": 1899,
-        "genres": [
-            "Fiction",
-            "Romance"
-        ],
-        "subgenres": [
-            "Degeneration",
-            "Literature"
-        ],
-        "themes": [
-            "Description and travel",
-            "Diaries"
-        ],
-        "emotion_tags": [
-            "curiosidad",
-            "ternura",
-            "suspenso",
-            "amor"
-        ],
-        "tone": "reflexivo",
-        "style": "poético",
-        "age_range": "16+",
-        "personality_match": [
-            "Bajo neuroticismo",
-            "Alta extraversión"
-        ],
-        "year": 1899
-    },
-    {
         "title": "Преступление и наказание",
         "author": "Фёдор Михайлович Достоевский",
         "subjects": [
@@ -26178,146 +24445,6 @@
             "Alta apertura"
         ],
         "year": 1915
-    },
-    {
-        "title": "Harry Potter and the Philosopher's Stone",
-        "author": "J. K. Rowling",
-        "subjects": [
-            "Ghosts",
-            "Monsters",
-            "Vampires",
-            "Witches",
-            "Challenges and Overcoming Obstacles",
-            "Magic and Supernatural",
-            "Cleverness",
-            "School Life",
-            "school stories",
-            "Wizards",
-            "Magic",
-            "MAGIA",
-            "MAGOS",
-            "Juvenile fiction",
-            "Fiction",
-            "NOVELAS INGLESAS",
-            "Schools",
-            "orphans",
-            "fantasy fiction",
-            "England in fiction",
-            "Witches in fiction",
-            "Wizards in fiction",
-            "Alchemy",
-            "New York Times bestseller",
-            "Juvenile literature",
-            "Magic in fiction",
-            "Open Library Staff Picks",
-            "Juvenile audience",
-            "Children's stories",
-            "Juvenile works",
-            "Schools in fiction",
-            "Fantasy",
-            "Hogwarts School of Witchcraft and Wizardry (Imaginary place)",
-            "Harry Potter (Fictitious character)",
-            "Ficción juvenil",
-            "Escuelas",
-            "Hogwarts School of Witchcraft and Wizardry (Imaginary organization)",
-            "Translations from English",
-            "Chinese fiction",
-            "Hermione Granger (Fictitious character)",
-            "Reading Level-Grade 9",
-            "Reading Level-Grade 11",
-            "Reading Level-Grade 10",
-            "Reading Level-Grade 12",
-            "Hogwarts school of witchcraft and wizardry (imaginary organization), fiction",
-            "Children's fiction",
-            "Schools, fiction",
-            "England, fiction",
-            "Potter, harry (fictitious character), fiction",
-            "Wizards, fiction",
-            "Magic, fiction",
-            "Fiction, fantasy, general",
-            "Magier",
-            "Fabeltiere",
-            "Lehrling",
-            "Kinderbuch",
-            "Stein der Weisen",
-            "Ungeheuer",
-            "Junge",
-            "English language",
-            "Translating into Welsh",
-            "Modern history to 20th century: c 1700 to c 1900",
-            "Literary theory",
-            "English literature",
-            "Ron Weasley (Fictitious character)",
-            "Latin language materials",
-            "Romans, nouvelles, etc. pour la jeunesse",
-            "Poudlard, école de sorcellerie (Organisation imaginaire)",
-            "Sorciers",
-            "Sorcières",
-            "Magie",
-            "Internats",
-            "Adventure and adventurers, fiction",
-            "Action & Adventure",
-            "Fantasy & Magic",
-            "Social Themes",
-            "Friendship",
-            "Harry Potter (Fictional character)",
-            "Friendship, fiction",
-            "German language materials",
-            "Witchcraft, fiction",
-            "Wizard",
-            "NOVELAS FANTÁSTICAS",
-            "NOVELAS JUVENILES INGLESAS",
-            "LITERATURA JUVENIL ESTADOUNIDENSE",
-            "Écoles",
-            "Hechicería",
-            "Novela juvenil",
-            "Ingleterra",
-            "Mystery",
-            "roman",
-            "English Fantasy literature",
-            "Translations into Marathi",
-            "English fiction",
-            "Translations into Chinese",
-            "Children - harry potter",
-            "Teen fiction",
-            "Children - fiction & literature",
-            "Science fiction & fantasy",
-            "Fiction - people",
-            "Places & cultures",
-            "Adventure",
-            "Supernatural",
-            "harry potter",
-            "j.k rowling",
-            "spanish"
-        ],
-        "description": "",
-        "first_publish_year": 1997,
-        "genres": [
-            "Ghosts",
-            "Monsters"
-        ],
-        "subgenres": [
-            "Vampires",
-            "Witches"
-        ],
-        "themes": [
-            "Challenges and Overcoming Obstacles",
-            "Magic and Supernatural"
-        ],
-        "emotion_tags": [
-            "maravilla",
-            "curiosidad",
-            "suspenso",
-            "asombro"
-        ],
-        "tone": "dinámico",
-        "style": "poético",
-        "age_range": "16+",
-        "personality_match": [
-            "Bajo neuroticismo",
-            "Alta amabilidad"
-        ],
-        "year": 1997
     },
     {
         "title": "Trent's Last Case",
@@ -26888,74 +25015,6 @@
         "year": 1926
     },
     {
-        "title": "Poirot investigates",
-        "author": "Agatha Christie",
-        "subjects": [
-            "Hercule Poirot (Fictitious character)",
-            "Private investigators",
-            "Chief Inspector Japp (Fictitious character)",
-            "Belgians",
-            "English Detective and mystery stories",
-            "Detective and mystery stories",
-            "Fiction",
-            "Captain Hastings (Fictitious character)",
-            "English Short stories",
-            "Historical Fiction",
-            "Mystery",
-            "Romance",
-            "England, fiction",
-            "Poirot, hercule (fictitious character), fiction",
-            "Fiction, mystery & detective, traditional",
-            "Fiction, mystery & detective, short stories",
-            "Fiction, mystery & detective, collections & anthologies",
-            "Fiction, crime",
-            "Fiction, mystery & detective, historical",
-            "Private investigators -- England -- Fiction",
-            "Detective and mystery stories, English",
-            "Belgians -- England -- Fiction",
-            "Poirot, Hercule (Fictitious character) -- Fiction",
-            "Murder",
-            "Investigation",
-            "Meurtre",
-            "Romans, nouvelles",
-            "Enquêtes",
-            "Fiction, mystery & detective, general",
-            "Private investigators, fiction",
-            "Fiction, general",
-            "Fiction, short stories (single author)",
-            "Mind and body",
-            "Social sciences"
-        ],
-        "description": "",
-        "first_publish_year": 1924,
-        "genres": [
-            "Hercule Poirot (Fictitious character)",
-            "Private investigators"
-        ],
-        "subgenres": [
-            "Chief Inspector Japp (Fictitious character)",
-            "Belgians"
-        ],
-        "themes": [
-            "English Detective and mystery stories",
-            "Detective and mystery stories"
-        ],
-        "emotion_tags": [
-            "curiosidad",
-            "ternura",
-            "suspenso",
-            "amor"
-        ],
-        "tone": "oscuro",
-        "style": "poético",
-        "age_range": "16+",
-        "personality_match": [
-            "Alta amabilidad",
-            "Alta apertura"
-        ],
-        "year": 1924
-    },
-    {
         "title": "The After House",
         "author": "Mary Roberts Rinehart",
         "subjects": [
@@ -27298,88 +25357,6 @@
             "Alta apertura"
         ],
         "year": 1963
-    },
-    {
-        "title": "Death on the Nile",
-        "author": "Agatha Christie",
-        "subjects": [
-            "Belgians",
-            "Fiction",
-            "Hercule Poirot (Fictitious character)",
-            "Private investigators",
-            "English Detective and mystery stories",
-            "murder",
-            "Historical Fiction",
-            "Mystery",
-            "Romance",
-            "Poirot, Hercule (Personaje literario)",
-            "Detectives privados",
-            "Novela",
-            "Belgas",
-            "Ficción",
-            "Agatha Christie",
-            "Detective",
-            "Hercule Poirot",
-            "Classic",
-            "British",
-            "Literature",
-            "Audiobook",
-            "Braile",
-            "Cruiseship",
-            "Travel",
-            "Asea",
-            "Crime",
-            "Suspense",
-            "Humour",
-            "Investigadores privados",
-            "Egypt, fiction",
-            "Poirot, hercule (fictitious character), fiction",
-            "Fiction, mystery & detective, traditional",
-            "Private investigators, fiction",
-            "Large type books",
-            "Detective and mystery stories",
-            "Roman",
-            "Roman policier",
-            "Français (langue)",
-            "Lectures et morceaux choisis",
-            "English literature",
-            "Fiction, crime",
-            "Fiction, thrillers, suspense",
-            "Fiction, mystery & detective, general",
-            "Fiction, thrillers, crime",
-            "Fiction, family life, general",
-            "Zhen tan xiao shuo",
-            "Zhang pian xiao shuo",
-            "Comic books, strips"
-        ],
-        "description": "",
-        "first_publish_year": 1937,
-        "genres": [
-            "Belgians",
-            "Fiction"
-        ],
-        "subgenres": [
-            "Hercule Poirot (Fictitious character)",
-            "Private investigators"
-        ],
-        "themes": [
-            "English Detective and mystery stories",
-            "murder"
-        ],
-        "emotion_tags": [
-            "curiosidad",
-            "ternura",
-            "suspenso",
-            "amor"
-        ],
-        "tone": "dinámico",
-        "style": "poético",
-        "age_range": "16+",
-        "personality_match": [
-            "Alta extraversión",
-            "Alta responsabilidad"
-        ],
-        "year": 1937
     },
     {
         "title": "The Law and the Lady",
@@ -27777,134 +25754,6 @@
         "year": 1899
     },
     {
-        "title": "Harry Potter and the Deathly Hallows",
-        "author": "J. K. Rowling",
-        "subjects": [
-            "the Elder Wand",
-            "children's books",
-            "dementors",
-            "good and evil",
-            "Juvenile literature",
-            "Juvenile works",
-            "Death",
-            "Fiction",
-            "Wizards",
-            "New York Times bestseller",
-            "nyt:series_books=2006-09-16",
-            "Schools",
-            "Magic",
-            "Magia",
-            "Ficción juvenil",
-            "Novela fantástica",
-            "Magos",
-            "Escuelas",
-            "Juvenile fiction",
-            "dark magic",
-            "Coming of age",
-            "heroics",
-            "fantasy",
-            "action",
-            "adventure",
-            "orphans",
-            "foster homes",
-            "young adult",
-            "children",
-            "children's literature",
-            "boarding school",
-            "wizardry",
-            "mystery",
-            "kids",
-            "witchcraft",
-            "war",
-            "Magie",
-            "Magiciens",
-            "Roman pour la jeunesse",
-            "Mort",
-            "Sorcellerie",
-            "Romans, nouvelles, etc. pour la jeunesse",
-            "Internats",
-            "Fantasy fiction",
-            "Roman fantastique",
-            "Ecoles",
-            "Boarding schools",
-            "Sorciers",
-            "Hogwarts School of Witchcraft and Wizardry (Imaginary place) -- Juvenile fiction",
-            "Hogwarts School of Witchcraft and Wizardry (Imaginary place)",
-            "Harry Potter (Fictitious character)",
-            "Potter, Harry (Fictitious character) -- Juvenile fiction",
-            "Wizards -- Fiction",
-            "Magic -- Fiction",
-            "Schools -- Fiction",
-            "Magos -- Ficción juvenil",
-            "Magia -- Ficción juvenil",
-            "Escuelas -- Ficción juvenil",
-            "England -- Fiction",
-            "Inglaterra -- Ficción juvenil",
-            "Hermione Granger (Fictitious character)",
-            "Hogwarts School of Witchcraft and Wizardry (Imaginary organization)",
-            "Ron Weasley (Fictitious character)",
-            "School stories",
-            "Family",
-            "Orphans & Foster Homes",
-            "Social Themes",
-            "Fantasy & Magic",
-            "Fictional Works",
-            "Bildungsromans",
-            "Witches",
-            "Friendship",
-            "Reading Level-Grade 9",
-            "Reading Level-Grade 11",
-            "Reading Level-Grade 10",
-            "Reading Level-Grade 12",
-            "Potter, harry (fictitious character), fiction",
-            "Wizards, fiction",
-            "Hogwarts school of witchcraft and wizardry (imaginary organization), fiction",
-            "England, fiction",
-            "Schools, fiction",
-            "Magic, fiction",
-            "Children's fiction",
-            "English literature",
-            "Fiction, fantasy, general",
-            "Méchanceté",
-            "Quête (Littérature)",
-            "Potter, Harry (Personnage fictif)",
-            "Large type books",
-            "New York Times reviewed",
-            "Poudlard (Organisation imaginaire)",
-            "Écoles",
-            "Illusion (performing art)",
-            "Schools (institutions)",
-            "Schools (buildings)",
-            "Child and youth fiction",
-            "death eater",
-            "ron",
-            "Severus Snape (Fictitious character)"
-        ],
-        "description": "",
-        "first_publish_year": 2007,
-        "genres": [
-            "the Elder Wand",
-            "children's books"
-        ],
-        "subgenres": [
-            "dementors",
-            "good and evil"
-        ],
-        "themes": [
-            "Juvenile literature",
-            "Juvenile works"
-        ],
-        "emotion_tags": [],
-        "tone": "dinámico",
-        "style": "poético",
-        "age_range": "16+",
-        "personality_match": [
-            "Bajo neuroticismo",
-            "Alta apertura"
-        ],
-        "year": 2007
-    },
-    {
         "title": "The dead secret",
         "author": "Wilkie Collins",
         "subjects": [
@@ -28131,82 +25980,6 @@
         "year": 1930
     },
     {
-        "title": "The Mystery of the Blue Train",
-        "author": "Agatha Christie",
-        "subjects": [
-            "Crimes against",
-            "Detective and mystery stories",
-            "Divorce",
-            "Divorce in fiction",
-            "Fiction",
-            "Hercule Poirot (Fictitious character)",
-            "Jewelry theft",
-            "Jewelry theft in fiction",
-            "Married women",
-            "Married women in fiction",
-            "Private investigators",
-            "Private investigators in fiction",
-            "Railroad stories",
-            "Railroad travel",
-            "Railroad travel in fiction",
-            "Rich people",
-            "Rich people in fiction",
-            "Historical Fiction",
-            "Mystery",
-            "Romance",
-            "Belgians",
-            "English Detective and mystery stories",
-            "Mystery fiction",
-            "England, fiction",
-            "France, fiction",
-            "Poirot, hercule (fictitious character), fiction",
-            "Fiction, mystery & detective, traditional",
-            "Large type books",
-            "English literature",
-            "German text",
-            "Fiction, mystery & detective, general",
-            "Private investigators, fiction",
-            "Married people, fiction",
-            "Divorced people, fiction",
-            "Crime, fiction",
-            "Fiction, general",
-            "Fiction, thrillers, general",
-            "Private investigators--England--Fiction",
-            "Railroad travel--Fiction",
-            "Married women--Crimes against--Fiction",
-            "Rich people--Crimes against--Fiction",
-            "Jewelry theft--Fiction"
-        ],
-        "description": "",
-        "first_publish_year": 1928,
-        "genres": [
-            "Crimes against",
-            "Detective and mystery stories"
-        ],
-        "subgenres": [
-            "Divorce",
-            "Divorce in fiction"
-        ],
-        "themes": [
-            "Fiction",
-            "Hercule Poirot (Fictitious character)"
-        ],
-        "emotion_tags": [
-            "curiosidad",
-            "ternura",
-            "suspenso",
-            "amor"
-        ],
-        "tone": "oscuro",
-        "style": "literario",
-        "age_range": "16+",
-        "personality_match": [
-            "Bajo neuroticismo",
-            "Alta apertura"
-        ],
-        "year": 1928
-    },
-    {
         "title": "Evil Under the Sun",
         "author": "Agatha Christie",
         "subjects": [
@@ -28257,85 +26030,6 @@
             "Bajo neuroticismo"
         ],
         "year": 1941
-    },
-    {
-        "title": "In Cold Blood",
-        "author": "Truman Capote",
-        "subjects": [
-            "True",
-            "Crime",
-            "Murder",
-            "Mystery",
-            "Cas, Études de",
-            "Meurtre",
-            "Análisis de casos",
-            "Asesinato",
-            "Case studies",
-            "Murder -- Kansas -- Case studies.",
-            "Smith, Perry Edward, 1928-1965",
-            "Kansas",
-            "Hickock, Richard Eugene, 1931-1965",
-            "Murder, kansas",
-            "True crime",
-            "Criminology and law enforcement",
-            "Large type books",
-            "American",
-            "Bäuerliche Familie",
-            "Roman",
-            "Deutsch",
-            "Ausgabe",
-            "Mord",
-            "Amerikanisch",
-            "Criminal investigation, united states",
-            "Investigation",
-            "Fiction, coming of age",
-            "Fiction, humorous, general",
-            "Ukraine, fiction",
-            "World war, 1939-1945, fiction",
-            "Authors, fiction",
-            "Grandparents, fiction",
-            "Fiction, family life",
-            "Fiction, jewish",
-            "Jews, fiction",
-            "Fiction",
-            "Etudes de Cas",
-            "Clutter family",
-            "Homicide",
-            "Murder--kansas--case studies",
-            "Literatura norte-americana",
-            "Romance",
-            "Asesinato--kansas--estudio de casos",
-            "Hv6533.k3 c3 1993",
-            "364.1/523/0978144"
-        ],
-        "description": "",
-        "first_publish_year": 1709,
-        "genres": [
-            "True",
-            "Crime"
-        ],
-        "subgenres": [
-            "Murder",
-            "Mystery"
-        ],
-        "themes": [
-            "Cas, Études de",
-            "Meurtre"
-        ],
-        "emotion_tags": [
-            "curiosidad",
-            "ternura",
-            "suspenso",
-            "amor"
-        ],
-        "tone": "luminoso",
-        "style": "directo",
-        "age_range": "16+",
-        "personality_match": [
-            "Alta extraversión",
-            "Bajo neuroticismo"
-        ],
-        "year": 1709
     },
     {
         "title": "The Secret of Chimneys",
@@ -30064,64 +27758,6 @@
         "year": 1991
     },
     {
-        "title": "Dead Man's Folly",
-        "author": "Agatha Christie",
-        "subjects": [
-            "Fiction",
-            "Historical Fiction",
-            "Mystery",
-            "Romance",
-            "Hercule Poirot (Fictitious character)",
-            "Private investigators",
-            "Private investigators in fiction",
-            "Belgians",
-            "Belgians in fiction",
-            "Ariadne Oliver (Fictitious character)",
-            "English Detective and mystery stories",
-            "Detective and mystery stories",
-            "Crime in literature",
-            "Detectives and mystery stories",
-            "English literature",
-            "English language",
-            "Fiction, mystery & detective, general",
-            "Oliver, ariadne (fictitious character), fiction",
-            "Private investigators, fiction",
-            "Poirot, hercule (fictitious character), fiction",
-            "England, fiction",
-            "Fiction, mystery & detective, traditional",
-            "Comics & graphic novels, crime & mystery",
-            "Belgium, fiction"
-        ],
-        "description": "",
-        "first_publish_year": 1956,
-        "genres": [
-            "Fiction",
-            "Historical Fiction"
-        ],
-        "subgenres": [
-            "Mystery",
-            "Romance"
-        ],
-        "themes": [
-            "Hercule Poirot (Fictitious character)",
-            "Private investigators"
-        ],
-        "emotion_tags": [
-            "curiosidad",
-            "ternura",
-            "suspenso",
-            "amor"
-        ],
-        "tone": "dinámico",
-        "style": "literario",
-        "age_range": "16+",
-        "personality_match": [
-            "Alta amabilidad",
-            "Alta extraversión"
-        ],
-        "year": 1956
-    },
-    {
         "title": "Hallowe'en Party",
         "author": "Agatha Christie",
         "subjects": [
@@ -31234,5 +28870,3311 @@
             "Alta apertura"
         ],
         "year": 1993
+    },
+    {
+        "title": "El extranjero",
+        "author": "Albert Camus",
+        "genres": [
+            "Filosofía",
+            "Ficción"
+        ],
+        "subgenres": [
+            "Existencialismo"
+        ],
+        "themes": [
+            "absurdo",
+            "alienación",
+            "existencialismo"
+        ],
+        "emotion_tags": [
+            "reflexión",
+            "angustia",
+            "apatía"
+        ],
+        "tone": "reflexivo",
+        "style": "directo",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alto neuroticismo"
+        ],
+        "year": 1942,
+        "description": "Una obra maestra del existencialismo que retrata la indiferencia humana frente al absurdo de la vida."
+    },
+    {
+        "title": "Así habló Zaratustra",
+        "author": "Friedrich Nietzsche",
+        "genres": [
+            "Filosofía"
+        ],
+        "subgenres": [
+            "Literatura sapiencial",
+            "Existencialismo"
+        ],
+        "themes": [
+            "superhombre",
+            "libertad",
+            "voluntad de poder"
+        ],
+        "emotion_tags": [
+            "reflexión",
+            "asombro",
+            "intensidad"
+        ],
+        "tone": "reflexivo",
+        "style": "poético",
+        "age_range": "18+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura"
+        ],
+        "year": 1883,
+        "description": "Un tratado filosófico-literario que plantea la superación del ser humano a través de una nueva moral."
+    },
+    {
+        "title": "La náusea",
+        "author": "Jean-Paul Sartre",
+        "genres": [
+            "Filosofía",
+            "Ficción"
+        ],
+        "subgenres": [
+            "Existencialismo",
+            "Diario personal"
+        ],
+        "themes": [
+            "existencia",
+            "angustia",
+            "sentido de la vida"
+        ],
+        "emotion_tags": [
+            "angustia",
+            "reflexión",
+            "desasosiego"
+        ],
+        "tone": "oscuro",
+        "style": "literario",
+        "age_range": "18+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alto neuroticismo"
+        ],
+        "year": 1938,
+        "description": "Una novela existencial sobre la toma de conciencia del sinsentido del mundo."
+    },
+    {
+        "title": "Demian",
+        "author": "Hermann Hesse",
+        "genres": [
+            "Filosofía",
+            "Ficción"
+        ],
+        "subgenres": [
+            "Bildungsroman",
+            "Psicología",
+            "Existencialismo"
+        ],
+        "themes": [
+            "identidad",
+            "dualidad",
+            "búsqueda interior"
+        ],
+        "emotion_tags": [
+            "reflexión",
+            "melancolía",
+            "inquietud"
+        ],
+        "tone": "reflexivo",
+        "style": "poético",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta amabilidad"
+        ],
+        "year": 1919,
+        "description": "Una novela iniciática que explora la transformación del alma a través del conflicto interno."
+    },
+    {
+        "title": "Enéadas I",
+        "author": "Plotino",
+        "genres": [
+            "Filosofía"
+        ],
+        "subgenres": [
+            "Neoplatonismo"
+        ],
+        "themes": [
+            "unidad",
+            "alma",
+            "intelecto",
+            "trascendencia"
+        ],
+        "emotion_tags": [
+            "asombro",
+            "elevación",
+            "contemplación"
+        ],
+        "tone": "espiritual",
+        "style": "filosófico",
+        "age_range": "18+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Bajo neuroticismo"
+        ],
+        "year": 2022,
+        "description": "Primer tratado de Plotino, máximo exponente del neoplatonismo. Explora la ascensión del alma hacia lo Uno a través de la contemplación y el conocimiento interior."
+    },
+    {
+        "title": "Ilíada",
+        "author": "Homero",
+        "genres": [
+            "Épica"
+        ],
+        "subgenres": [
+            "Poesía épica griega"
+        ],
+        "themes": [
+            "guerra de Troya",
+            "destino",
+            "heroísmo"
+        ],
+        "emotion_tags": [
+            "admiración",
+            "épica",
+            "tragedia"
+        ],
+        "tone": "intenso",
+        "style": "poético",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta responsabilidad"
+        ],
+        "year": -750,
+        "description": "La epopeya fundacional de la literatura occidental, que narra la guerra de Troya y el destino de los héroes griegos."
+    },
+    {
+        "title": "Odisea",
+        "author": "Homero",
+        "genres": [
+            "Épica"
+        ],
+        "subgenres": [
+            "Poesía épica griega"
+        ],
+        "themes": [
+            "viaje",
+            "astucia",
+            "hogar"
+        ],
+        "emotion_tags": [
+            "curiosidad",
+            "nostalgia",
+            "asombro"
+        ],
+        "tone": "aventurero",
+        "style": "poético",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta amabilidad"
+        ],
+        "year": -720,
+        "description": "Un relato mítico del viaje de Odiseo de regreso a Ítaca, símbolo del ingenio y el anhelo del hogar."
+    },
+    {
+        "title": "El Banquete",
+        "author": "Platón",
+        "genres": [
+            "Filosofía"
+        ],
+        "subgenres": [
+            "Diálogo socrático"
+        ],
+        "themes": [
+            "amor",
+            "belleza",
+            "alma"
+        ],
+        "emotion_tags": [
+            "reflexión",
+            "asombro",
+            "profundidad"
+        ],
+        "tone": "reflexivo",
+        "style": "filosófico",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura"
+        ],
+        "year": -380,
+        "description": "Un diálogo clásico donde diversos personajes exploran el amor desde múltiples perspectivas filosóficas."
+    },
+    {
+        "title": "Ética a Nicómaco",
+        "author": "Aristóteles",
+        "genres": [
+            "Filosofía"
+        ],
+        "subgenres": [
+            "Ética"
+        ],
+        "themes": [
+            "virtud",
+            "felicidad",
+            "racionalidad"
+        ],
+        "emotion_tags": [
+            "claridad",
+            "serenidad",
+            "sabiduría"
+        ],
+        "tone": "racional",
+        "style": "didáctico",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta responsabilidad"
+        ],
+        "year": -350,
+        "description": "Un tratado clave de la ética antigua que analiza la virtud como camino hacia la vida buena."
+    },
+    {
+        "title": "Sobre la felicidad",
+        "author": "Séneca",
+        "genres": [
+            "Filosofía"
+        ],
+        "subgenres": [
+            "Estoicismo",
+            "Ensayo moral"
+        ],
+        "themes": [
+            "serenidad",
+            "autodominio",
+            "virtud"
+        ],
+        "emotion_tags": [
+            "calma",
+            "reflexión",
+            "fortaleza"
+        ],
+        "tone": "sereno",
+        "style": "ensayístico",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta responsabilidad",
+            "Bajo neuroticismo"
+        ],
+        "year": 64,
+        "description": "Una obra esencial del estoicismo que defiende la virtud y el dominio interior como camino hacia la felicidad."
+    },
+    {
+        "title": "Eneida",
+        "author": "Virgilio",
+        "genres": [
+            "Épica"
+        ],
+        "subgenres": [
+            "Poesía épica latina"
+        ],
+        "themes": [
+            "destino",
+            "fundación de Roma",
+            "deber"
+        ],
+        "emotion_tags": [
+            "orgullo",
+            "lealtad",
+            "épica"
+        ],
+        "tone": "solemne",
+        "style": "poético",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta responsabilidad"
+        ],
+        "year": -19,
+        "description": "Una epopeya romana que narra el viaje de Eneas tras la caída de Troya, símbolo del deber y la identidad nacional."
+    },
+    {
+        "title": "Historia de Roma",
+        "author": "Tito Livio",
+        "genres": [
+            "Historia"
+        ],
+        "subgenres": [
+            "Crónica histórica"
+        ],
+        "themes": [
+            "fundación de Roma",
+            "valores romanos",
+            "gobierno"
+        ],
+        "emotion_tags": [
+            "admiración",
+            "orgullo",
+            "reflexión"
+        ],
+        "tone": "didáctico",
+        "style": "narrativo",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta responsabilidad"
+        ],
+        "year": -27,
+        "description": "Una monumental obra que narra los orígenes, expansión y virtudes de Roma desde sus inicios míticos."
+    },
+    {
+        "title": "¡Mi reino por un caballo! Antología de citas",
+        "author": "Varios autores",
+        "genres": [
+            "Filosofía",
+            "Literatura"
+        ],
+        "subgenres": [
+            "Antología",
+            "Aforismos"
+        ],
+        "themes": [
+            "sabiduría",
+            "vida",
+            "humanidad"
+        ],
+        "emotion_tags": [
+            "inspiración",
+            "asombro",
+            "curiosidad"
+        ],
+        "tone": "variado",
+        "style": "fragmentado",
+        "age_range": "14+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura"
+        ],
+        "year": 2012,
+        "description": "Una colección de citas célebres que recorre la historia del pensamiento y la literatura."
+    },
+    {
+        "title": "¡Viva el socialismo!",
+        "author": "Thomas Piketty",
+        "genres": [
+            "Economía",
+            "Política"
+        ],
+        "subgenres": [
+            "Ensayo político",
+            "Análisis económico"
+        ],
+        "themes": [
+            "igualdad",
+            "redistribución",
+            "justicia social"
+        ],
+        "emotion_tags": [
+            "compromiso",
+            "esperanza",
+            "crítica"
+        ],
+        "tone": "crítico",
+        "style": "ensayístico",
+        "age_range": "18+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta responsabilidad"
+        ],
+        "year": 2023,
+        "description": "Un llamado a la justicia social desde la economía contemporánea, con una defensa del socialismo democrático."
+    },
+    {
+        "title": "500 tuits para dirigir mejor",
+        "author": "Jaume Llopis",
+        "genres": [
+            "Empresa",
+            "Liderazgo"
+        ],
+        "subgenres": [
+            "Gestión",
+            "Coaching"
+        ],
+        "themes": [
+            "liderazgo",
+            "motivación",
+            "estrategia"
+        ],
+        "emotion_tags": [
+            "motivación",
+            "claridad",
+            "practicidad"
+        ],
+        "tone": "pragmático",
+        "style": "aforístico",
+        "age_range": "18+",
+        "language": "es",
+        "personality_match": [
+            "Alta responsabilidad",
+            "Alta extraversión"
+        ],
+        "year": 2015,
+        "description": "Una guía de liderazgo ágil a través de 500 ideas clave en formato tuit."
+    },
+    {
+        "title": "Así habló Zaratustra / Más allá del bien y del mal",
+        "author": "Friedrich Nietzsche",
+        "genres": [
+            "Filosofía"
+        ],
+        "subgenres": [
+            "Existencialismo",
+            "Aforismos"
+        ],
+        "themes": [
+            "superación",
+            "voluntad",
+            "moral"
+        ],
+        "emotion_tags": [
+            "inspiración",
+            "provocación",
+            "intensidad"
+        ],
+        "tone": "profundo",
+        "style": "poético",
+        "age_range": "18+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Bajo neuroticismo"
+        ],
+        "year": 1883,
+        "description": "Dos obras clave del pensamiento nietzscheano sobre la moral, la voluntad de poder y el superhombre."
+    },
+    {
+        "title": "Armas de destrucción matemática",
+        "author": "Cathy O’Neil",
+        "genres": [
+            "Ciencia",
+            "Tecnología",
+            "Sociedad"
+        ],
+        "subgenres": [
+            "Divulgación científica",
+            "Ética algorítmica"
+        ],
+        "themes": [
+            "algoritmos",
+            "discriminación",
+            "justicia"
+        ],
+        "emotion_tags": [
+            "indignación",
+            "conciencia",
+            "urgencia"
+        ],
+        "tone": "denunciante",
+        "style": "ensayístico",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta responsabilidad"
+        ],
+        "year": 2016,
+        "description": "Un análisis crítico de cómo los algoritmos perpetúan la desigualdad en la sociedad actual."
+    },
+    {
+        "title": "Armas, gérmenes y acero",
+        "author": "Jared Diamond",
+        "genres": [
+            "Historia",
+            "Ciencia"
+        ],
+        "subgenres": [
+            "Antropología",
+            "Evolución social"
+        ],
+        "themes": [
+            "desigualdad",
+            "evolución humana",
+            "civilización"
+        ],
+        "emotion_tags": [
+            "curiosidad",
+            "fascinación",
+            "sorpresa"
+        ],
+        "tone": "académico",
+        "style": "ensayístico",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta responsabilidad"
+        ],
+        "year": 1997,
+        "description": "Un análisis del desarrollo desigual de las civilizaciones humanas a través del impacto de la geografía, la biología y la tecnología."
+    },
+    {
+        "title": "Autobiografía",
+        "author": "Mahatma Gandhi",
+        "genres": [
+            "Historia",
+            "Espiritualidad"
+        ],
+        "subgenres": [
+            "Biografía",
+            "Filosofía de vida"
+        ],
+        "themes": [
+            "no violencia",
+            "verdad",
+            "resistencia"
+        ],
+        "emotion_tags": [
+            "inspiración",
+            "admiración",
+            "reflexión"
+        ],
+        "tone": "íntimo",
+        "style": "narrativo",
+        "age_range": "14+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta amabilidad"
+        ],
+        "year": 1927,
+        "description": "El relato autobiográfico del líder indio que revolucionó la lucha política a través de la no violencia y la verdad."
+    },
+    {
+        "title": "Batiendo a Wall Street",
+        "author": "Peter Lynch",
+        "genres": [
+            "Finanzas",
+            "Economía"
+        ],
+        "subgenres": [
+            "Inversión",
+            "Bolsa de valores"
+        ],
+        "themes": [
+            "inversión",
+            "mercado",
+            "rentabilidad"
+        ],
+        "emotion_tags": [
+            "motivación",
+            "ambición",
+            "claridad"
+        ],
+        "tone": "práctico",
+        "style": "didáctico",
+        "age_range": "18+",
+        "language": "es",
+        "personality_match": [
+            "Alta responsabilidad",
+            "Alta apertura"
+        ],
+        "year": 1993,
+        "description": "Una guía del legendario inversor Peter Lynch sobre cómo ganar al mercado invirtiendo en lo que uno conoce."
+    },
+    {
+        "title": "Bhagavad Gita (edición ilustrada)",
+        "author": "Anónimo",
+        "genres": [
+            "Espiritualidad",
+            "Filosofía"
+        ],
+        "subgenres": [
+            "Hinduismo",
+            "Texto sagrado"
+        ],
+        "themes": [
+            "deber",
+            "alma",
+            "sabiduría"
+        ],
+        "emotion_tags": [
+            "devoción",
+            "serenidad",
+            "elevación"
+        ],
+        "tone": "espiritual",
+        "style": "poético",
+        "age_range": "14+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Bajo neuroticismo"
+        ],
+        "year": -200,
+        "description": "Un diálogo entre Krishna y Arjuna sobre el deber, el alma y el camino espiritual, con bellas ilustraciones."
+    },
+    {
+        "title": "Breve historia ilustrada del mundo",
+        "author": "Ernst H. Gombrich",
+        "genres": [
+            "Historia",
+            "Divulgación"
+        ],
+        "subgenres": [
+            "Educación",
+            "Historia general"
+        ],
+        "themes": [
+            "cultura",
+            "evolución humana",
+            "sociedad"
+        ],
+        "emotion_tags": [
+            "curiosidad",
+            "sorprendido",
+            "entusiasmo"
+        ],
+        "tone": "divulgativo",
+        "style": "narrativo",
+        "age_range": "12+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura"
+        ],
+        "year": 1936,
+        "description": "Una obra accesible y brillante que narra la historia del mundo para lectores de todas las edades."
+    },
+    {
+        "title": "Budismo para principiantes",
+        "author": "Sherab Chodzin Kohn",
+        "genres": [
+            "Espiritualidad",
+            "Filosofía oriental"
+        ],
+        "subgenres": [
+            "Budismo",
+            "Guía práctica"
+        ],
+        "themes": [
+            "compasión",
+            "sabiduría",
+            "meditación"
+        ],
+        "emotion_tags": [
+            "calma",
+            "serenidad",
+            "apertura"
+        ],
+        "tone": "tranquilo",
+        "style": "accesible",
+        "age_range": "14+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta amabilidad"
+        ],
+        "year": 1999,
+        "description": "Una guía sencilla e introductoria a las enseñanzas fundamentales del budismo."
+    },
+    {
+        "title": "Buffettología",
+        "author": "Mary Buffett & David Clark",
+        "genres": [
+            "Finanzas",
+            "Negocios"
+        ],
+        "subgenres": [
+            "Inversión",
+            "Biografía empresarial"
+        ],
+        "themes": [
+            "valor",
+            "empresa",
+            "riqueza"
+        ],
+        "emotion_tags": [
+            "interés",
+            "practicidad",
+            "ambición"
+        ],
+        "tone": "educativo",
+        "style": "pragmático",
+        "age_range": "18+",
+        "language": "es",
+        "personality_match": [
+            "Alta responsabilidad"
+        ],
+        "year": 1997,
+        "description": "Una guía que desentraña la estrategia de inversión de Warren Buffett para el lector común."
+    },
+    {
+        "title": "Cahiers pour une ontologie phénoménologique",
+        "author": "Martin Heidegger",
+        "genres": [
+            "Filosofía"
+        ],
+        "subgenres": [
+            "Fenomenología",
+            "Ontología"
+        ],
+        "themes": [
+            "ser",
+            "existencia",
+            "tiempo"
+        ],
+        "emotion_tags": [
+            "concentración",
+            "reflexión",
+            "intensidad"
+        ],
+        "tone": "denso",
+        "style": "filosófico",
+        "age_range": "18+",
+        "language": "fr",
+        "personality_match": [
+            "Alta apertura",
+            "Alta responsabilidad"
+        ],
+        "year": 1992,
+        "description": "Cuadernos en los que Heidegger desarrolla sus bases para una ontología fenomenológica rigurosa."
+    },
+    {
+        "title": "Cómo funciona la política",
+        "author": "DK Publishing",
+        "genres": [
+            "Política",
+            "Educación"
+        ],
+        "subgenres": [
+            "Divulgación",
+            "Guía ilustrada"
+        ],
+        "themes": [
+            "gobierno",
+            "ciudadanía",
+            "instituciones"
+        ],
+        "emotion_tags": [
+            "curiosidad",
+            "entendimiento",
+            "claridad"
+        ],
+        "tone": "neutral",
+        "style": "visual",
+        "age_range": "12+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta responsabilidad"
+        ],
+        "year": 2020,
+        "description": "Una guía visual e interactiva que explica de forma sencilla cómo funcionan los sistemas políticos en el mundo."
+    },
+    {
+        "title": "Contra la educación",
+        "author": "Friedrich Nietzsche",
+        "genres": [
+            "Filosofía",
+            "Educación"
+        ],
+        "subgenres": [
+            "Crítica cultural",
+            "Ensayo"
+        ],
+        "themes": [
+            "formación",
+            "libertad",
+            "crítica a la enseñanza"
+        ],
+        "emotion_tags": [
+            "provocación",
+            "rebeldía",
+            "reflexión"
+        ],
+        "tone": "crítico",
+        "style": "ensayístico",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Bajo neuroticismo"
+        ],
+        "year": 1872,
+        "description": "Una crítica al sistema educativo moderno por parte del filósofo alemán más irreverente y lúcido de su tiempo."
+    },
+    {
+        "title": "Crimen y castigo",
+        "author": "Fiódor M. Dostoievski",
+        "genres": [
+            "Literatura",
+            "Psicología"
+        ],
+        "subgenres": [
+            "Novela filosófica",
+            "Drama psicológico"
+        ],
+        "themes": [
+            "culpa",
+            "redención",
+            "moral"
+        ],
+        "emotion_tags": [
+            "intensidad",
+            "angustia",
+            "empatía"
+        ],
+        "tone": "oscuro",
+        "style": "profundo",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta responsabilidad"
+        ],
+        "year": 1866,
+        "description": "Una obra maestra de la literatura rusa que explora la mente de un asesino y sus luchas éticas internas."
+    },
+    {
+        "title": "Crítica de la razón pura",
+        "author": "Immanuel Kant",
+        "genres": [
+            "Filosofía"
+        ],
+        "subgenres": [
+            "Epistemología",
+            "Metafísica"
+        ],
+        "themes": [
+            "conocimiento",
+            "razón",
+            "experiencia"
+        ],
+        "emotion_tags": [
+            "reflexión",
+            "concentración",
+            "desafío intelectual"
+        ],
+        "tone": "abstracto",
+        "style": "denso",
+        "age_range": "18+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta responsabilidad"
+        ],
+        "year": 1781,
+        "description": "Una de las obras filosóficas más influyentes, donde Kant busca reconciliar el conocimiento empírico con la razón pura."
+    },
+    {
+        "title": "Cultura y simulacro",
+        "author": "Jean Baudrillard",
+        "genres": [
+            "Filosofía",
+            "Sociología"
+        ],
+        "subgenres": [
+            "Postmodernismo",
+            "Teoría crítica"
+        ],
+        "themes": [
+            "realidad",
+            "medios",
+            "simulación"
+        ],
+        "emotion_tags": [
+            "crítica",
+            "curiosidad",
+            "desconcierto"
+        ],
+        "tone": "intelectual",
+        "style": "ensayístico",
+        "age_range": "18+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta imaginación"
+        ],
+        "year": 1981,
+        "description": "Una reflexión profunda sobre cómo los medios y la cultura contemporánea crean realidades ficticias."
+    },
+    {
+        "title": "Desarrollo y libertad",
+        "author": "Amartya Sen",
+        "genres": [
+            "Economía",
+            "Política"
+        ],
+        "subgenres": [
+            "Desarrollo humano",
+            "Justicia social"
+        ],
+        "themes": [
+            "libertad",
+            "derechos",
+            "desigualdad"
+        ],
+        "emotion_tags": [
+            "compromiso",
+            "esperanza",
+            "conciencia"
+        ],
+        "tone": "argumentativo",
+        "style": "académico",
+        "age_range": "18+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta responsabilidad"
+        ],
+        "year": 1999,
+        "description": "Un análisis sobre cómo el desarrollo económico debe enfocarse en expandir las libertades reales de las personas."
+    },
+    {
+        "title": "Desobediencia civil y otros escritos",
+        "author": "Henry D. Thoreau",
+        "genres": [
+            "Filosofía",
+            "Política"
+        ],
+        "subgenres": [
+            "Ensayo",
+            "Anarquismo filosófico"
+        ],
+        "themes": [
+            "libertad",
+            "resistencia",
+            "justicia"
+        ],
+        "emotion_tags": [
+            "rebeldía",
+            "inspiración",
+            "conciencia"
+        ],
+        "tone": "reflexivo",
+        "style": "ensayístico",
+        "age_range": "14+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Baja complacencia"
+        ],
+        "year": 1849,
+        "description": "Un texto esencial sobre la resistencia pacífica ante leyes injustas y el poder del individuo."
+    },
+    {
+        "title": "Despierta",
+        "author": "Anthony de Mello",
+        "genres": [
+            "Espiritualidad",
+            "Psicología"
+        ],
+        "subgenres": [
+            "Autoayuda",
+            "Desarrollo personal"
+        ],
+        "themes": [
+            "conciencia",
+            "presencia",
+            "libertad interior"
+        ],
+        "emotion_tags": [
+            "calma",
+            "claridad",
+            "despertar"
+        ],
+        "tone": "compasivo",
+        "style": "directo",
+        "age_range": "14+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta estabilidad emocional"
+        ],
+        "year": 1992,
+        "description": "Un llamado a vivir despiertos y conscientes, liberándonos de las ataduras mentales y emocionales."
+    },
+    {
+        "title": "Diálogos",
+        "author": "Platón",
+        "genres": [
+            "Filosofía"
+        ],
+        "subgenres": [
+            "Socraticismo",
+            "Ontología",
+            "Ética"
+        ],
+        "themes": [
+            "conocimiento",
+            "alma",
+            "verdad"
+        ],
+        "emotion_tags": [
+            "curiosidad",
+            "sabiduría",
+            "inspiración"
+        ],
+        "tone": "dialógico",
+        "style": "filosófico",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura"
+        ],
+        "year": -400,
+        "description": "Una recopilación de los principales diálogos socráticos que fundaron la filosofía occidental."
+    },
+    {
+        "title": "Diario para estoicos",
+        "author": "Ryan Holiday & Stephen Hanselman",
+        "genres": [
+            "Filosofía",
+            "Psicología"
+        ],
+        "subgenres": [
+            "Estoicismo",
+            "Autoayuda"
+        ],
+        "themes": [
+            "virtud",
+            "resiliencia",
+            "sabiduría práctica"
+        ],
+        "emotion_tags": [
+            "reflexión",
+            "fortaleza",
+            "claridad"
+        ],
+        "tone": "motivador",
+        "style": "aforístico",
+        "age_range": "14+",
+        "language": "es",
+        "personality_match": [
+            "Alta responsabilidad",
+            "Alta estabilidad emocional"
+        ],
+        "year": 2020,
+        "description": "Un diario con ejercicios y reflexiones estoicas para cultivar la disciplina, el coraje y la sabiduría."
+    },
+    {
+        "title": "Dios – La ciencia – Las pruebas",
+        "author": "Michel-Yves Bolloré & Olivier Bonnassies",
+        "genres": [
+            "Filosofía",
+            "Ciencia",
+            "Religión"
+        ],
+        "subgenres": [
+            "Teología natural",
+            "Divulgación científica"
+        ],
+        "themes": [
+            "fe",
+            "cosmología",
+            "existencia de Dios"
+        ],
+        "emotion_tags": [
+            "asombro",
+            "reflexión",
+            "inspiración"
+        ],
+        "tone": "argumentativo",
+        "style": "accesible",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta espiritualidad"
+        ],
+        "year": 2021,
+        "description": "Una presentación de argumentos científicos y filosóficos contemporáneos a favor de la existencia de Dios."
+    },
+    {
+        "title": "Disciplina sin lágrimas",
+        "author": "Daniel J. Siegel, Tina Payne Bryson",
+        "genres": [
+            "Educación",
+            "Psicología"
+        ],
+        "subgenres": [
+            "Neuroeducación",
+            "Crianza respetuosa"
+        ],
+        "themes": [
+            "educación",
+            "empatía",
+            "cerebro infantil"
+        ],
+        "emotion_tags": [
+            "ternura",
+            "claridad",
+            "empatía"
+        ],
+        "tone": "positivo",
+        "style": "didáctico",
+        "age_range": "14+",
+        "language": "es",
+        "personality_match": [
+            "Alta amabilidad",
+            "Alta responsabilidad"
+        ],
+        "year": 2014,
+        "description": "Una guía basada en neurociencia para educar con respeto, empatía y eficacia sin recurrir al castigo."
+    },
+    {
+        "title": "Economía básica",
+        "author": "Thomas Sowell",
+        "genres": [
+            "Economía"
+        ],
+        "subgenres": [
+            "Divulgación",
+            "Macroeconomía"
+        ],
+        "themes": [
+            "mercados",
+            "oferta y demanda",
+            "política económica"
+        ],
+        "emotion_tags": [
+            "claridad",
+            "curiosidad",
+            "análisis"
+        ],
+        "tone": "didáctico",
+        "style": "accesible",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta responsabilidad",
+            "Alta apertura"
+        ],
+        "year": 2007,
+        "description": "Una explicación clara y sin jerga técnica de los principios económicos que afectan la vida diaria."
+    },
+    {
+        "title": "El alma del liderazgo",
+        "author": "Deepak Chopra",
+        "genres": [
+            "Liderazgo",
+            "Espiritualidad"
+        ],
+        "subgenres": [
+            "Crecimiento personal",
+            "Gestión"
+        ],
+        "themes": [
+            "liderazgo consciente",
+            "visión",
+            "inspiración"
+        ],
+        "emotion_tags": [
+            "claridad",
+            "inspiración",
+            "empoderamiento"
+        ],
+        "tone": "motivacional",
+        "style": "espiritual",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta responsabilidad"
+        ],
+        "year": 2010,
+        "description": "Un enfoque espiritual del liderazgo basado en el autoconocimiento, la empatía y la visión compartida."
+    },
+    {
+        "title": "El aroma del tiempo",
+        "author": "Byung-Chul Han",
+        "genres": [
+            "Filosofía",
+            "Sociología"
+        ],
+        "subgenres": [
+            "Ensayo",
+            "Modernidad"
+        ],
+        "themes": [
+            "aceleración",
+            "sentido del tiempo",
+            "sociedad"
+        ],
+        "emotion_tags": [
+            "reflexión",
+            "melancolía",
+            "contemplación"
+        ],
+        "tone": "crítico",
+        "style": "ensayístico",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta sensibilidad"
+        ],
+        "year": 2009,
+        "description": "Una crítica filosófica al ritmo frenético de la sociedad contemporánea y la pérdida del sentido del tiempo."
+    },
+    {
+        "title": "El arte de la prudencia",
+        "author": "Baltasar Gracián",
+        "genres": [
+            "Filosofía",
+            "Literatura"
+        ],
+        "subgenres": [
+            "Aforismos",
+            "Ética práctica"
+        ],
+        "themes": [
+            "sabiduría",
+            "astucia",
+            "virtud"
+        ],
+        "emotion_tags": [
+            "inspiración",
+            "claridad",
+            "sabiduría"
+        ],
+        "tone": "reflexivo",
+        "style": "aforístico",
+        "age_range": "14+",
+        "language": "es",
+        "personality_match": [
+            "Alta responsabilidad",
+            "Alta apertura"
+        ],
+        "year": 1647,
+        "description": "Un manual de sabiduría práctica y estrategia vital escrito en forma de aforismos breves y agudos."
+    },
+    {
+        "title": "El camino de la vida",
+        "author": "León Tolstói",
+        "genres": [
+            "Filosofía",
+            "Espiritualidad"
+        ],
+        "subgenres": [
+            "Aforismos",
+            "Cristianismo práctico"
+        ],
+        "themes": [
+            "vida",
+            "ética",
+            "espiritualidad"
+        ],
+        "emotion_tags": [
+            "inspiración",
+            "calma",
+            "contemplación"
+        ],
+        "tone": "profundo",
+        "style": "fragmentado",
+        "age_range": "14+",
+        "language": "es",
+        "personality_match": [
+            "Alta espiritualidad",
+            "Alta responsabilidad"
+        ],
+        "year": 1911,
+        "description": "Una recopilación de pensamientos y reflexiones morales y espirituales del autor ruso sobre el sentido de la vida."
+    },
+    {
+        "title": "El camino simple a la riqueza",
+        "author": "J.L. Collins",
+        "genres": [
+            "Finanzas personales"
+        ],
+        "subgenres": [
+            "Inversión",
+            "Educación financiera"
+        ],
+        "themes": [
+            "ahorro",
+            "independencia financiera",
+            "gestión del dinero"
+        ],
+        "emotion_tags": [
+            "motivación",
+            "claridad",
+            "seguridad"
+        ],
+        "tone": "práctico",
+        "style": "didáctico",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta responsabilidad",
+            "Baja impulsividad"
+        ],
+        "year": 2016,
+        "description": "Una guía directa y sencilla sobre cómo alcanzar la libertad financiera a través de la inversión pasiva."
+    },
+    {
+        "title": "El capital en la era del Antropoceno",
+        "author": "Kohei Saito",
+        "genres": [
+            "Economía",
+            "Ecología"
+        ],
+        "subgenres": [
+            "Marxismo ecológico",
+            "Desarrollo sostenible"
+        ],
+        "themes": [
+            "capitalismo",
+            "medioambiente",
+            "transición ecológica"
+        ],
+        "emotion_tags": [
+            "compromiso",
+            "esperanza",
+            "urgencia"
+        ],
+        "tone": "crítico",
+        "style": "ensayístico",
+        "age_range": "18+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta conciencia"
+        ],
+        "year": 2020,
+        "description": "Una reinterpretación ecológica de Marx y una propuesta radical para una economía sostenible."
+    },
+    {
+        "title": "El capital en el siglo XXI",
+        "author": "Thomas Piketty",
+        "genres": [
+            "Economía",
+            "Historia"
+        ],
+        "subgenres": [
+            "Desigualdad",
+            "Política fiscal"
+        ],
+        "themes": [
+            "capital",
+            "herencia",
+            "redistribución"
+        ],
+        "emotion_tags": [
+            "crítica",
+            "curiosidad",
+            "urgencia"
+        ],
+        "tone": "académico",
+        "style": "analítico",
+        "age_range": "18+",
+        "language": "es",
+        "personality_match": [
+            "Alta responsabilidad",
+            "Alta apertura"
+        ],
+        "year": 2013,
+        "description": "Un análisis histórico y económico sobre la evolución de la desigualdad de ingresos y riqueza desde el siglo XVIII."
+    },
+    {
+        "title": "El capital: antología",
+        "author": "Karl Marx",
+        "genres": [
+            "Economía",
+            "Política"
+        ],
+        "subgenres": [
+            "Marxismo",
+            "Crítica del capitalismo"
+        ],
+        "themes": [
+            "plusvalía",
+            "trabajo",
+            "lucha de clases"
+        ],
+        "emotion_tags": [
+            "crítica",
+            "indignación",
+            "conciencia"
+        ],
+        "tone": "analítico",
+        "style": "teórico",
+        "age_range": "18+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta conciencia política"
+        ],
+        "year": 1867,
+        "description": "Selección comentada de pasajes clave de la obra magna de Karl Marx sobre economía política."
+    },
+    {
+        "title": "El contrato social",
+        "author": "Jean-Jacques Rousseau",
+        "genres": [
+            "Filosofía",
+            "Política"
+        ],
+        "subgenres": [
+            "Teoría política",
+            "Ilustración"
+        ],
+        "themes": [
+            "libertad",
+            "soberanía",
+            "voluntad general"
+        ],
+        "emotion_tags": [
+            "reflexión",
+            "crítica",
+            "idealismo"
+        ],
+        "tone": "intelectual",
+        "style": "filosófico",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta justicia"
+        ],
+        "year": 1762,
+        "description": "Una obra clave de la filosofía política que fundamenta el poder del Estado en la voluntad del pueblo."
+    },
+    {
+        "title": "El cerebro del niño explicado a los padres",
+        "author": "Álvaro Bilbao",
+        "genres": [
+            "Psicología",
+            "Educación"
+        ],
+        "subgenres": [
+            "Neuroeducación",
+            "Paternidad"
+        ],
+        "themes": [
+            "neurodesarrollo",
+            "educación emocional",
+            "crianza"
+        ],
+        "emotion_tags": [
+            "claridad",
+            "confianza",
+            "cariño"
+        ],
+        "tone": "positivo",
+        "style": "didáctico",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta responsabilidad",
+            "Alta sensibilidad"
+        ],
+        "year": 2015,
+        "description": "Una guía práctica para padres sobre cómo funciona el cerebro infantil y cómo favorecer su desarrollo."
+    },
+    {
+        "title": "El cerebro del niño",
+        "author": "Daniel J. Siegel, Tina Payne Bryson",
+        "genres": [
+            "Psicología",
+            "Neurociencia"
+        ],
+        "subgenres": [
+            "Educación emocional",
+            "Paternidad"
+        ],
+        "themes": [
+            "cerebro",
+            "crianza",
+            "empatía"
+        ],
+        "emotion_tags": [
+            "empatía",
+            "claridad",
+            "afecto"
+        ],
+        "tone": "afectuoso",
+        "style": "accesible",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta sensibilidad",
+            "Alta responsabilidad"
+        ],
+        "year": 2011,
+        "description": "Enseña a los padres cómo entender y apoyar el desarrollo emocional de sus hijos desde la neurociencia."
+    },
+    {
+        "title": "El cerebro y la inteligencia emocional",
+        "author": "Daniel Goleman",
+        "genres": [
+            "Psicología",
+            "Neurociencia"
+        ],
+        "subgenres": [
+            "Divulgación",
+            "Educación emocional"
+        ],
+        "themes": [
+            "emociones",
+            "cognición",
+            "neuroplasticidad"
+        ],
+        "emotion_tags": [
+            "curiosidad",
+            "claridad",
+            "optimismo"
+        ],
+        "tone": "inspirador",
+        "style": "didáctico",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta responsabilidad"
+        ],
+        "year": 2011,
+        "description": "Explora la conexión entre el cerebro y la inteligencia emocional, y su impacto en nuestras decisiones."
+    },
+    {
+        "title": "El don de la sensibilidad",
+        "author": "Elaine N. Aron",
+        "genres": [
+            "Psicología",
+            "Crecimiento personal"
+        ],
+        "subgenres": [
+            "Alta sensibilidad",
+            "Autoayuda"
+        ],
+        "themes": [
+            "introspección",
+            "empatía",
+            "autoaceptación"
+        ],
+        "emotion_tags": [
+            "comprensión",
+            "empatía",
+            "tranquilidad"
+        ],
+        "tone": "cálido",
+        "style": "narrativo",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta sensibilidad",
+            "Alta introspección"
+        ],
+        "year": 1996,
+        "description": "Una guía esencial para las personas altamente sensibles, enfocada en la aceptación y crecimiento personal."
+    },
+    {
+        "title": "El error de Descartes",
+        "author": "Antonio Damasio",
+        "genres": [
+            "Neurociencia",
+            "Filosofía"
+        ],
+        "subgenres": [
+            "Conciencia",
+            "Toma de decisiones"
+        ],
+        "themes": [
+            "razón",
+            "emoción",
+            "cerebro"
+        ],
+        "emotion_tags": [
+            "curiosidad",
+            "asombro",
+            "claridad"
+        ],
+        "tone": "científico",
+        "style": "ensayístico",
+        "age_range": "18+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta reflexión"
+        ],
+        "year": 1994,
+        "description": "Demuestra cómo las emociones juegan un papel fundamental en la toma de decisiones racionales."
+    },
+    {
+        "title": "El existencialismo es un humanismo",
+        "author": "Jean-Paul Sartre",
+        "genres": [
+            "Filosofía"
+        ],
+        "subgenres": [
+            "Existencialismo",
+            "Ensayo"
+        ],
+        "themes": [
+            "libertad",
+            "responsabilidad",
+            "elección"
+        ],
+        "emotion_tags": [
+            "reflexión",
+            "motivación",
+            "cuestionamiento"
+        ],
+        "tone": "provocador",
+        "style": "filosófico",
+        "age_range": "18+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta autonomía"
+        ],
+        "year": 1946,
+        "description": "Defiende el existencialismo como una filosofía de la libertad, la responsabilidad y la autenticidad."
+    },
+    {
+        "title": "El Kybalion",
+        "author": "Tres Iniciados",
+        "genres": [
+            "Espiritualidad",
+            "Ocultismo"
+        ],
+        "subgenres": [
+            "Hermetismo",
+            "Sabiduría antigua"
+        ],
+        "themes": [
+            "mente",
+            "universo",
+            "leyes espirituales"
+        ],
+        "emotion_tags": [
+            "misterio",
+            "curiosidad",
+            "elevación"
+        ],
+        "tone": "esotérico",
+        "style": "aforístico",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta espiritualidad"
+        ],
+        "year": 1908,
+        "description": "Una obra clave del pensamiento hermético que explica siete principios universales para comprender la realidad."
+    },
+    {
+        "title": "El libro tibetano de los muertos",
+        "author": "Bardo Thödol",
+        "genres": [
+            "Espiritualidad",
+            "Filosofía oriental"
+        ],
+        "subgenres": [
+            "Budismo",
+            "Texto sagrado"
+        ],
+        "themes": [
+            "muerte",
+            "renacimiento",
+            "conciencia"
+        ],
+        "emotion_tags": [
+            "trascendencia",
+            "respeto",
+            "asombro"
+        ],
+        "tone": "sagrado",
+        "style": "ritual",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta espiritualidad",
+            "Alta apertura"
+        ],
+        "year": 1350,
+        "description": "Una guía espiritual para acompañar a los muertos en el proceso de transición entre la muerte y el renacimiento."
+    },
+    {
+        "title": "El mal",
+        "author": "Rüdiger Safranski",
+        "genres": [
+            "Filosofía",
+            "Psicología"
+        ],
+        "subgenres": [
+            "Historia del pensamiento",
+            "Ética"
+        ],
+        "themes": [
+            "naturaleza humana",
+            "violencia",
+            "moral"
+        ],
+        "emotion_tags": [
+            "inquietud",
+            "curiosidad",
+            "reflexión"
+        ],
+        "tone": "intelectual",
+        "style": "ensayístico",
+        "age_range": "18+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta conciencia moral"
+        ],
+        "year": 1997,
+        "description": "Una profunda reflexión filosófica sobre la historia y la comprensión del mal en la cultura occidental."
+    },
+    {
+        "title": "El mundo como voluntad y representación I y II",
+        "author": "Arthur Schopenhauer",
+        "genres": [
+            "Filosofía"
+        ],
+        "subgenres": [
+            "Metafísica",
+            "Estética"
+        ],
+        "themes": [
+            "voluntad",
+            "representación",
+            "dolor"
+        ],
+        "emotion_tags": [
+            "intensidad",
+            "melancolía",
+            "sabiduría"
+        ],
+        "tone": "pesimista",
+        "style": "filosófico",
+        "age_range": "18+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta introspección"
+        ],
+        "year": 1818,
+        "description": "La obra cumbre de Schopenhauer, donde desarrolla su visión metafísica del mundo basada en la voluntad."
+    },
+    {
+        "title": "El mundo está en venta",
+        "author": "Javier Blas & Jack Farchy",
+        "genres": [
+            "Economía",
+            "Geopolítica"
+        ],
+        "subgenres": [
+            "Commodities",
+            "Poder económico"
+        ],
+        "themes": [
+            "recursos naturales",
+            "mercados",
+            "geoestrategia"
+        ],
+        "emotion_tags": [
+            "curiosidad",
+            "tensión",
+            "revelación"
+        ],
+        "tone": "analítico",
+        "style": "periodístico",
+        "age_range": "18+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta responsabilidad"
+        ],
+        "year": 2021,
+        "description": "Una investigación sobre cómo el control de las materias primas mueve los hilos del poder global."
+    },
+    {
+        "title": "El niño feliz",
+        "author": "Emilio Ribes Iñesta (Nomen)",
+        "genres": [
+            "Psicología",
+            "Educación"
+        ],
+        "subgenres": [
+            "Crianza",
+            "Desarrollo emocional"
+        ],
+        "themes": [
+            "felicidad",
+            "paternidad",
+            "educación emocional"
+        ],
+        "emotion_tags": [
+            "ternura",
+            "claridad",
+            "optimismo"
+        ],
+        "tone": "positivo",
+        "style": "accesible",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta sensibilidad",
+            "Alta responsabilidad"
+        ],
+        "year": 2013,
+        "description": "Guía emocional y psicológica para criar niños felices y emocionalmente sanos."
+    },
+    {
+        "title": "El príncipe",
+        "author": "Nicolás Maquiavelo",
+        "genres": [
+            "Filosofía",
+            "Política"
+        ],
+        "subgenres": [
+            "Teoría política",
+            "Realismo político"
+        ],
+        "themes": [
+            "poder",
+            "estrategia",
+            "gobierno"
+        ],
+        "emotion_tags": [
+            "admiración",
+            "cautela",
+            "ambición"
+        ],
+        "tone": "realista",
+        "style": "ensayístico",
+        "age_range": "18+",
+        "language": "es",
+        "personality_match": [
+            "Alta responsabilidad",
+            "Alta extraversión"
+        ],
+        "year": 1532,
+        "description": "Clásico del pensamiento político sobre cómo conservar y ejercer el poder con eficacia."
+    },
+    {
+        "title": "El precio de la desigualdad",
+        "author": "Joseph E. Stiglitz",
+        "genres": [
+            "Economía",
+            "Política"
+        ],
+        "subgenres": [
+            "Ensayo",
+            "Crítica social"
+        ],
+        "themes": [
+            "inequidad",
+            "mercado",
+            "políticas públicas"
+        ],
+        "emotion_tags": [
+            "indignación",
+            "compromiso",
+            "esperanza"
+        ],
+        "tone": "crítico",
+        "style": "ensayístico",
+        "age_range": "18+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta justicia"
+        ],
+        "year": 2012,
+        "description": "Un análisis de cómo la desigualdad daña tanto la economía como la democracia."
+    },
+    {
+        "title": "El Tao de la física",
+        "author": "Fritjof Capra",
+        "genres": [
+            "Ciencia",
+            "Espiritualidad"
+        ],
+        "subgenres": [
+            "Física cuántica",
+            "Filosofía oriental"
+        ],
+        "themes": [
+            "unidad",
+            "universo",
+            "sabiduría ancestral"
+        ],
+        "emotion_tags": [
+            "asombro",
+            "reflexión",
+            "maravilla"
+        ],
+        "tone": "contemplativo",
+        "style": "divulgativo",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta espiritualidad"
+        ],
+        "year": 1975,
+        "description": "Explora las conexiones entre la física moderna y el misticismo oriental, buscando una visión unificada."
+    },
+    {
+        "title": "El extraño orden de las cosas",
+        "author": "Antonio Damasio",
+        "genres": [
+            "Neurociencia",
+            "Filosofía"
+        ],
+        "subgenres": [
+            "Conciencia",
+            "Origen de la cultura"
+        ],
+        "themes": [
+            "homeostasis",
+            "sentimientos",
+            "evolución"
+        ],
+        "emotion_tags": [
+            "curiosidad",
+            "asombro",
+            "claridad"
+        ],
+        "tone": "reflexivo",
+        "style": "científico",
+        "age_range": "18+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta introspección"
+        ],
+        "year": 2018,
+        "description": "Analiza cómo los sentimientos y la biología influyen en el desarrollo de las culturas humanas."
+    },
+    {
+        "title": "El inversor inteligente",
+        "author": "Benjamin Graham",
+        "genres": [
+            "Finanzas",
+            "Inversión"
+        ],
+        "subgenres": [
+            "Value investing",
+            "Educación financiera"
+        ],
+        "themes": [
+            "riesgo",
+            "inversión",
+            "disciplina"
+        ],
+        "emotion_tags": [
+            "confianza",
+            "cautela",
+            "claridad"
+        ],
+        "tone": "pragmático",
+        "style": "técnico",
+        "age_range": "18+",
+        "language": "es",
+        "personality_match": [
+            "Alta responsabilidad",
+            "Alta racionalidad"
+        ],
+        "year": 1949,
+        "description": "Una obra fundamental para entender la inversión a largo plazo basada en valor y disciplina."
+    },
+    {
+        "title": "Ensayos de un buscador espiritual",
+        "author": "Ralph Waldo Emerson",
+        "genres": [
+            "Filosofía",
+            "Espiritualidad"
+        ],
+        "subgenres": [
+            "Trascendentalismo",
+            "Autoexploración"
+        ],
+        "themes": [
+            "naturaleza",
+            "alma",
+            "sabiduría interior"
+        ],
+        "emotion_tags": [
+            "inspiración",
+            "conexión",
+            "elevación"
+        ],
+        "tone": "espiritual",
+        "style": "ensayístico",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta espiritualidad"
+        ],
+        "year": 1841,
+        "description": "Reflexiones sobre el yo, la naturaleza y la espiritualidad interior desde una mirada trascendentalista."
+    },
+    {
+        "title": "Escuelas creativas",
+        "author": "Ken Robinson con Lou Aronica",
+        "genres": [
+            "Educación",
+            "Innovación"
+        ],
+        "subgenres": [
+            "Cambio educativo",
+            "Creatividad"
+        ],
+        "themes": [
+            "educación",
+            "talento",
+            "transformación"
+        ],
+        "emotion_tags": [
+            "esperanza",
+            "entusiasmo",
+            "claridad"
+        ],
+        "tone": "inspirador",
+        "style": "narrativo",
+        "age_range": "14+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta curiosidad"
+        ],
+        "year": 2015,
+        "description": "Una propuesta para reinventar la educación y fomentar la creatividad en las escuelas del siglo XXI."
+    },
+    {
+        "title": "Excesos",
+        "author": "Emilio Ontiveros",
+        "genres": [
+            "Economía",
+            "Sociedad"
+        ],
+        "subgenres": [
+            "Crítica del sistema",
+            "Crisis global"
+        ],
+        "themes": [
+            "capitalismo",
+            "riesgo",
+            "crisis financiera"
+        ],
+        "emotion_tags": [
+            "preocupación",
+            "alerta",
+            "crítica"
+        ],
+        "tone": "analítico",
+        "style": "ensayístico",
+        "age_range": "18+",
+        "language": "es",
+        "personality_match": [
+            "Alta responsabilidad",
+            "Alta justicia"
+        ],
+        "year": 2020,
+        "description": "Una reflexión crítica sobre los excesos del sistema económico global y sus consecuencias sociales."
+    },
+    {
+        "title": "Fausto",
+        "author": "Johann Wolfgang von Goethe",
+        "genres": [
+            "Literatura",
+            "Filosofía"
+        ],
+        "subgenres": [
+            "Drama",
+            "Romanticismo"
+        ],
+        "themes": [
+            "conocimiento",
+            "ambición",
+            "alma"
+        ],
+        "emotion_tags": [
+            "intensidad",
+            "inquietud",
+            "fascinación"
+        ],
+        "tone": "oscuro",
+        "style": "poético",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Bajo neuroticismo"
+        ],
+        "year": 1808,
+        "description": "Una tragedia filosófica sobre el deseo insaciable de conocimiento y el pacto con el diablo."
+    },
+    {
+        "title": "Focus",
+        "author": "Daniel Goleman",
+        "genres": [
+            "Psicología",
+            "Productividad"
+        ],
+        "subgenres": [
+            "Atención",
+            "Neurociencia aplicada"
+        ],
+        "themes": [
+            "concentración",
+            "rendimiento",
+            "mente"
+        ],
+        "emotion_tags": [
+            "claridad",
+            "motivación",
+            "optimización"
+        ],
+        "tone": "constructivo",
+        "style": "divulgativo",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta responsabilidad",
+            "Bajo neuroticismo"
+        ],
+        "year": 2013,
+        "description": "Explora la ciencia de la atención como factor clave para el éxito y el bienestar en la era de la distracción."
+    },
+    {
+        "title": "Freud",
+        "author": "Sigmund Freud",
+        "genres": [
+            "Psicología",
+            "Psicoanálisis"
+        ],
+        "subgenres": [
+            "Teoría de la mente",
+            "Ensayo"
+        ],
+        "themes": [
+            "inconsciente",
+            "sexualidad",
+            "conflicto interno"
+        ],
+        "emotion_tags": [
+            "curiosidad",
+            "provocación",
+            "reflexión"
+        ],
+        "tone": "teórico",
+        "style": "académico",
+        "age_range": "18+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta introspección"
+        ],
+        "year": 1899,
+        "description": "Obra fundamental del creador del psicoanálisis, que revolucionó la comprensión de la mente humana."
+    },
+    {
+        "title": "Guía para una vida iluminada",
+        "author": "Byung-Chul Han",
+        "genres": [
+            "Filosofía",
+            "Espiritualidad"
+        ],
+        "subgenres": [
+            "Contemplación",
+            "Minimalismo"
+        ],
+        "themes": [
+            "belleza",
+            "ser",
+            "modernidad"
+        ],
+        "emotion_tags": [
+            "calma",
+            "lucidez",
+            "contemplación"
+        ],
+        "tone": "reflexivo",
+        "style": "aforístico",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Baja extraversión"
+        ],
+        "year": 2022,
+        "description": "Un conjunto de reflexiones breves sobre cómo vivir una vida más plena en un mundo saturado de estímulos."
+    },
+    {
+        "title": "Hábitos atómicos",
+        "author": "James Clear",
+        "genres": [
+            "Desarrollo personal",
+            "Productividad"
+        ],
+        "subgenres": [
+            "Autoayuda",
+            "Cambio de hábitos"
+        ],
+        "themes": [
+            "mejora continua",
+            "disciplina",
+            "motivación"
+        ],
+        "emotion_tags": [
+            "energía",
+            "claridad",
+            "empoderamiento"
+        ],
+        "tone": "pragmático",
+        "style": "accesible",
+        "age_range": "14+",
+        "language": "es",
+        "personality_match": [
+            "Alta responsabilidad",
+            "Alta conciencia"
+        ],
+        "year": 2018,
+        "description": "Una guía práctica para crear buenos hábitos, romper los malos y dominar los pequeños cambios diarios."
+    },
+    {
+        "title": "Historia de las flores del mal",
+        "author": "Charles Baudelaire",
+        "genres": [
+            "Poesía",
+            "Literatura"
+        ],
+        "subgenres": [
+            "Simbolismo",
+            "Decadentismo"
+        ],
+        "themes": [
+            "belleza",
+            "pecado",
+            "muerte"
+        ],
+        "emotion_tags": [
+            "melancolía",
+            "atracción",
+            "oscuridad"
+        ],
+        "tone": "sombrío",
+        "style": "poético",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta sensibilidad"
+        ],
+        "year": 1857,
+        "description": "Una obra poética que explora los contrastes entre el bien y el mal, el placer y la decadencia."
+    },
+    {
+        "title": "Introducción a la metafísica",
+        "author": "Martin Heidegger",
+        "genres": [
+            "Filosofía"
+        ],
+        "subgenres": [
+            "Ontología",
+            "Fenomenología"
+        ],
+        "themes": [
+            "ser",
+            "existencia",
+            "tiempo"
+        ],
+        "emotion_tags": [
+            "asombro",
+            "contemplación",
+            "inquietud"
+        ],
+        "tone": "denso",
+        "style": "académico",
+        "age_range": "18+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Baja extraversión"
+        ],
+        "year": 1953,
+        "description": "Un texto clave para comprender el pensamiento heideggeriano y su propuesta de repensar el ser."
+    },
+    {
+        "title": "Inteligencias múltiples",
+        "author": "Howard Gardner",
+        "genres": [
+            "Educación",
+            "Psicología"
+        ],
+        "subgenres": [
+            "Teoría del aprendizaje",
+            "Desarrollo cognitivo"
+        ],
+        "themes": [
+            "inteligencia",
+            "diversidad",
+            "potencial humano"
+        ],
+        "emotion_tags": [
+            "curiosidad",
+            "empoderamiento",
+            "comprensión"
+        ],
+        "tone": "formativo",
+        "style": "divulgativo",
+        "age_range": "14+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta empatía"
+        ],
+        "year": 1983,
+        "description": "Una teoría revolucionaria que redefine el concepto de inteligencia y sus múltiples formas de expresión."
+    },
+    {
+        "title": "La crisis de la narración / Capitalismo y pulsión de muerte",
+        "author": "Byung-Chul Han",
+        "genres": [
+            "Filosofía",
+            "Sociología"
+        ],
+        "subgenres": [
+            "Crítica cultural",
+            "Psicoanálisis social"
+        ],
+        "themes": [
+            "narrativas",
+            "neoliberalismo",
+            "decadencia"
+        ],
+        "emotion_tags": [
+            "inquietud",
+            "lucidez",
+            "urgencia"
+        ],
+        "tone": "crítico",
+        "style": "ensayístico",
+        "age_range": "18+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta introspección"
+        ],
+        "year": 2022,
+        "description": "Una crítica a la pérdida de sentido en el capitalismo contemporáneo, donde la narrativa y el deseo se fracturan."
+    },
+    {
+        "title": "La doctrina del shock",
+        "author": "Naomi Klein",
+        "genres": [
+            "Política",
+            "Economía"
+        ],
+        "subgenres": [
+            "Ensayo",
+            "Crítica global"
+        ],
+        "themes": [
+            "neoliberalismo",
+            "crisis",
+            "manipulación"
+        ],
+        "emotion_tags": [
+            "indignación",
+            "alerta",
+            "despertar"
+        ],
+        "tone": "contundente",
+        "style": "investigativo",
+        "age_range": "18+",
+        "language": "es",
+        "personality_match": [
+            "Alta justicia",
+            "Alta apertura"
+        ],
+        "year": 2007,
+        "description": "Un análisis demoledor sobre cómo las crisis se han utilizado para imponer políticas económicas radicales."
+    },
+    {
+        "title": "La era del capitalismo de la vigilancia",
+        "author": "Shoshana Zuboff",
+        "genres": [
+            "Economía",
+            "Tecnología",
+            "Sociedad"
+        ],
+        "subgenres": [
+            "Crítica del capitalismo digital",
+            "Sociología"
+        ],
+        "themes": [
+            "control",
+            "datos",
+            "poder corporativo"
+        ],
+        "emotion_tags": [
+            "preocupación",
+            "conciencia",
+            "urgencia"
+        ],
+        "tone": "analítico",
+        "style": "ensayístico",
+        "age_range": "18+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta responsabilidad"
+        ],
+        "year": 2019,
+        "description": "Un análisis pionero del nuevo orden económico basado en la explotación masiva de datos personales."
+    },
+    {
+        "title": "La gran apuesta",
+        "author": "Michael Lewis",
+        "genres": [
+            "Economía",
+            "Finanzas"
+        ],
+        "subgenres": [
+            "Crónica",
+            "Crisis financiera"
+        ],
+        "themes": [
+            "especulación",
+            "riesgo",
+            "colapso"
+        ],
+        "emotion_tags": [
+            "sorpresa",
+            "tensión",
+            "curiosidad"
+        ],
+        "tone": "narrativo",
+        "style": "crónica periodística",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta conciencia"
+        ],
+        "year": 2010,
+        "description": "Relato fascinante sobre cómo unos pocos anticiparon y se beneficiaron del colapso financiero de 2008."
+    },
+    {
+        "title": "La libertad de ser libres",
+        "author": "Hannah Arendt",
+        "genres": [
+            "Filosofía política"
+        ],
+        "subgenres": [
+            "Ensayo",
+            "Teoría política"
+        ],
+        "themes": [
+            "libertad",
+            "acción",
+            "democracia"
+        ],
+        "emotion_tags": [
+            "inspiración",
+            "profundidad",
+            "esperanza"
+        ],
+        "tone": "elevado",
+        "style": "ensayístico",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta responsabilidad"
+        ],
+        "year": 2018,
+        "description": "Una reflexión sobre el verdadero significado de la libertad y su papel en la esfera política."
+    },
+    {
+        "title": "La mente bien ordenada",
+        "author": "Edgar Morin",
+        "genres": [
+            "Educación",
+            "Filosofía"
+        ],
+        "subgenres": [
+            "Pensamiento complejo",
+            "Epistemología"
+        ],
+        "themes": [
+            "conocimiento",
+            "educación",
+            "complejidad"
+        ],
+        "emotion_tags": [
+            "claridad",
+            "asombro",
+            "reflexión"
+        ],
+        "tone": "reflexivo",
+        "style": "académico-divulgativo",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta conciencia"
+        ],
+        "year": 1999,
+        "description": "Una invitación a pensar de forma compleja, integrando saberes fragmentados para una comprensión más rica del mundo."
+    },
+    {
+        "title": "La mente en desarrollo",
+        "author": "Daniel J. Siegel",
+        "genres": [
+            "Psicología",
+            "Neurociencia",
+            "Educación"
+        ],
+        "subgenres": [
+            "Desarrollo infantil",
+            "Psicología relacional"
+        ],
+        "themes": [
+            "cerebro",
+            "infancia",
+            "vínculos"
+        ],
+        "emotion_tags": [
+            "ternura",
+            "curiosidad",
+            "claridad"
+        ],
+        "tone": "empático",
+        "style": "divulgativo",
+        "age_range": "14+",
+        "language": "es",
+        "personality_match": [
+            "Alta empatía",
+            "Alta apertura"
+        ],
+        "year": 2013,
+        "description": "Una guía para padres y educadores sobre cómo la neurociencia puede ayudarnos a criar niños más sanos y equilibrados."
+    },
+    {
+        "title": "La molécula del espíritu",
+        "author": "Rick Strassman",
+        "genres": [
+            "Neurociencia",
+            "Espiritualidad"
+        ],
+        "subgenres": [
+            "Investigación científica",
+            "Psicodélicos"
+        ],
+        "themes": [
+            "DMT",
+            "conciencia",
+            "trascendencia"
+        ],
+        "emotion_tags": [
+            "asombro",
+            "inquietud",
+            "misticismo"
+        ],
+        "tone": "revelador",
+        "style": "científico-espiritual",
+        "age_range": "18+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta espiritualidad"
+        ],
+        "year": 2001,
+        "description": "Una investigación pionera sobre el DMT y su posible vínculo con la experiencia espiritual humana."
+    },
+    {
+        "title": "La república / El estado",
+        "author": "Platón",
+        "genres": [
+            "Filosofía",
+            "Política"
+        ],
+        "subgenres": [
+            "Diálogo",
+            "Filosofía clásica"
+        ],
+        "themes": [
+            "justicia",
+            "estado ideal",
+            "educación"
+        ],
+        "emotion_tags": [
+            "asombro",
+            "disciplina",
+            "reflexión"
+        ],
+        "tone": "didáctico",
+        "style": "dialógico",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta responsabilidad"
+        ],
+        "year": -380,
+        "description": "Un diálogo esencial sobre la organización del Estado justo, la educación y la filosofía como camino de vida."
+    },
+    {
+        "title": "La riqueza de las naciones",
+        "author": "Adam Smith",
+        "genres": [
+            "Economía",
+            "Filosofía política"
+        ],
+        "subgenres": [
+            "Clásico económico",
+            "Teoría del mercado"
+        ],
+        "themes": [
+            "mercado",
+            "productividad",
+            "libertad económica"
+        ],
+        "emotion_tags": [
+            "racionalidad",
+            "interés",
+            "crítica"
+        ],
+        "tone": "teórico",
+        "style": "académico",
+        "age_range": "18+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta conciencia"
+        ],
+        "year": 1776,
+        "description": "La obra fundacional de la economía moderna, que propone el principio de la mano invisible del mercado."
+    },
+    {
+        "title": "La sensación de lo que ocurre",
+        "author": "Antonio Damasio",
+        "genres": [
+            "Neurociencia",
+            "Filosofía de la mente"
+        ],
+        "subgenres": [
+            "Conciencia",
+            "Biología"
+        ],
+        "themes": [
+            "sentimientos",
+            "autoconciencia",
+            "cuerpo"
+        ],
+        "emotion_tags": [
+            "curiosidad",
+            "asombro",
+            "lucidez"
+        ],
+        "tone": "profundo",
+        "style": "científico-reflexivo",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta introspección"
+        ],
+        "year": 1999,
+        "description": "Una teoría revolucionaria sobre el origen de la conciencia y su conexión con el cuerpo y la emoción."
+    },
+    {
+        "title": "Larousse Bolsa: Libro de inversión en bolsa",
+        "author": "Larousse Editorial",
+        "genres": [
+            "Finanzas",
+            "Inversión"
+        ],
+        "subgenres": [
+            "Manual práctico",
+            "Educación financiera"
+        ],
+        "themes": [
+            "acciones",
+            "mercados",
+            "ahorro"
+        ],
+        "emotion_tags": [
+            "seguridad",
+            "claridad",
+            "motivación"
+        ],
+        "tone": "didáctico",
+        "style": "accesible",
+        "age_range": "14+",
+        "language": "es",
+        "personality_match": [
+            "Alta responsabilidad",
+            "Alta conciencia"
+        ],
+        "year": 2020,
+        "description": "Una guía sencilla y completa para iniciarse en la inversión bursátil y comprender los mercados financieros."
+    },
+    {
+        "title": "Las flores del mal",
+        "author": "Charles Baudelaire",
+        "genres": [
+            "Poesía",
+            "Filosofía"
+        ],
+        "subgenres": [
+            "Simbolismo",
+            "Decadentismo"
+        ],
+        "themes": [
+            "belleza",
+            "muerte",
+            "deseo"
+        ],
+        "emotion_tags": [
+            "melancolía",
+            "fascinación",
+            "oscuridad"
+        ],
+        "tone": "sombrío",
+        "style": "poético",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alto neuroticismo"
+        ],
+        "year": 1857,
+        "description": "Una obra maestra de la poesía moderna que explora los contrastes entre el bien y el mal, lo bello y lo decadente."
+    },
+    {
+        "title": "Las mejores decisiones",
+        "author": "John Brockman",
+        "genres": [
+            "Psicología",
+            "Ciencia"
+        ],
+        "subgenres": [
+            "Ensayo",
+            "Toma de decisiones"
+        ],
+        "themes": [
+            "pensamiento crítico",
+            "elección",
+            "intuición"
+        ],
+        "emotion_tags": [
+            "curiosidad",
+            "claridad",
+            "racionalidad"
+        ],
+        "tone": "intelectual",
+        "style": "ensayístico",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta conciencia"
+        ],
+        "year": 2012,
+        "description": "Una colección de ensayos sobre cómo tomamos decisiones y qué influencias inconscientes afectan nuestras elecciones."
+    },
+    {
+        "title": "Las venas abiertas de América Latina",
+        "author": "Eduardo Galeano",
+        "genres": [
+            "Historia",
+            "Política",
+            "Economía"
+        ],
+        "subgenres": [
+            "Crónica",
+            "Denuncia social"
+        ],
+        "themes": [
+            "colonialismo",
+            "explotación",
+            "resistencia"
+        ],
+        "emotion_tags": [
+            "indignación",
+            "tristeza",
+            "solidaridad"
+        ],
+        "tone": "denunciante",
+        "style": "poético-político",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta empatía"
+        ],
+        "year": 1971,
+        "description": "Un análisis apasionado sobre la historia de la opresión económica y política en América Latina."
+    },
+    {
+        "title": "Leviatán",
+        "author": "Thomas Hobbes",
+        "genres": [
+            "Filosofía",
+            "Política"
+        ],
+        "subgenres": [
+            "Filosofía del Estado",
+            "Contratualismo"
+        ],
+        "themes": [
+            "orden",
+            "autoridad",
+            "naturaleza humana"
+        ],
+        "emotion_tags": [
+            "reflexión",
+            "seriedad",
+            "disciplina"
+        ],
+        "tone": "grave",
+        "style": "filosófico",
+        "age_range": "18+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta responsabilidad"
+        ],
+        "year": 1651,
+        "description": "Una defensa del poder centralizado como garante de la paz frente al caos del estado natural del ser humano."
+    },
+    {
+        "title": "Los cuatro acuerdos",
+        "author": "Miguel Ruiz",
+        "genres": [
+            "Autoayuda",
+            "Espiritualidad"
+        ],
+        "subgenres": [
+            "Sabiduría tolteca",
+            "Desarrollo personal"
+        ],
+        "themes": [
+            "libertad",
+            "verdad",
+            "paz interior"
+        ],
+        "emotion_tags": [
+            "esperanza",
+            "calma",
+            "claridad"
+        ],
+        "tone": "inspirador",
+        "style": "didáctico",
+        "age_range": "14+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta amabilidad"
+        ],
+        "year": 1997,
+        "description": "Un manual práctico basado en la sabiduría ancestral para alcanzar una vida plena y libre de sufrimiento innecesario."
+    },
+    {
+        "title": "Los niños que fuimos, los padres que somos",
+        "author": "Beatriz Cazurro",
+        "genres": [
+            "Psicología",
+            "Educación",
+            "Familia"
+        ],
+        "subgenres": [
+            "Infancia",
+            "Trauma",
+            "Vínculo afectivo"
+        ],
+        "themes": [
+            "crianza",
+            "heridas emocionales",
+            "sanación"
+        ],
+        "emotion_tags": [
+            "ternura",
+            "conciencia",
+            "empatía"
+        ],
+        "tone": "cálido",
+        "style": "reflexivo",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta empatía",
+            "Alta apertura"
+        ],
+        "year": 2021,
+        "description": "Una guía compasiva para sanar heridas de la infancia y ofrecer una crianza más consciente y amorosa."
+    },
+    {
+        "title": "Meditaciones",
+        "author": "Marco Aurelio",
+        "genres": [
+            "Filosofía",
+            "Autoayuda"
+        ],
+        "subgenres": [
+            "Estoicismo",
+            "Aforismos"
+        ],
+        "themes": [
+            "virtud",
+            "autocontrol",
+            "sabiduría"
+        ],
+        "emotion_tags": [
+            "calma",
+            "reflexión",
+            "resiliencia"
+        ],
+        "tone": "sereno",
+        "style": "aforístico",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta estabilidad emocional",
+            "Alta conciencia"
+        ],
+        "year": 180,
+        "description": "Reflexiones del emperador estoico sobre cómo vivir con dignidad, serenidad y propósito."
+    },
+    {
+        "title": "Naturaleza",
+        "author": "Ralph Waldo Emerson",
+        "genres": [
+            "Filosofía",
+            "Espiritualidad"
+        ],
+        "subgenres": [
+            "Trascendentalismo",
+            "Ensayo filosófico"
+        ],
+        "themes": [
+            "naturaleza",
+            "intuición",
+            "unidad"
+        ],
+        "emotion_tags": [
+            "asombro",
+            "calma",
+            "elevación"
+        ],
+        "tone": "místico",
+        "style": "poético-filosófico",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta espiritualidad"
+        ],
+        "year": 1836,
+        "description": "Una obra fundacional del pensamiento trascendentalista que conecta al ser humano con la naturaleza y el universo."
+    },
+    {
+        "title": "No cosas",
+        "author": "Byung-Chul Han",
+        "genres": [
+            "Filosofía",
+            "Sociedad"
+        ],
+        "subgenres": [
+            "Ensayo contemporáneo",
+            "Tecnocultura"
+        ],
+        "themes": [
+            "digitalización",
+            "materialidad",
+            "relaciones humanas"
+        ],
+        "emotion_tags": [
+            "desconcierto",
+            "lucidez",
+            "reflexión"
+        ],
+        "tone": "crítico",
+        "style": "filosófico",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta introspección"
+        ],
+        "year": 2021,
+        "description": "Una crítica a la pérdida de lo tangible en la era digital, y una llamada a recuperar la presencia del otro y de las cosas reales."
+    },
+    {
+        "title": "No Logo",
+        "author": "Naomi Klein",
+        "genres": [
+            "Política",
+            "Economía",
+            "Sociología"
+        ],
+        "subgenres": [
+            "Crítica del consumo",
+            "Activismo"
+        ],
+        "themes": [
+            "capitalismo",
+            "marcas",
+            "resistencia"
+        ],
+        "emotion_tags": [
+            "indignación",
+            "determinación",
+            "claridad"
+        ],
+        "tone": "militante",
+        "style": "ensayístico",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta responsabilidad"
+        ],
+        "year": 1999,
+        "description": "Un manifiesto contra las grandes marcas y el poder corporativo en la era de la globalización."
+    },
+    {
+        "title": "Storytelling como estrategia de comunicación",
+        "author": "Guillaume Lamarre",
+        "genres": [
+            "Comunicación",
+            "Empresa"
+        ],
+        "subgenres": [
+            "Narrativa corporativa",
+            "Marketing"
+        ],
+        "themes": [
+            "influencia",
+            "mensaje",
+            "persuasión"
+        ],
+        "emotion_tags": [
+            "claridad",
+            "conexión",
+            "curiosidad"
+        ],
+        "tone": "profesional",
+        "style": "didáctico",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta extraversión",
+            "Alta apertura"
+        ],
+        "year": 2019,
+        "description": "Una guía para emplear técnicas narrativas en la comunicación empresarial y la conexión con la audiencia."
+    },
+    {
+        "title": "Tecnofeudalismo",
+        "author": "Yanis Varoufakis",
+        "genres": [
+            "Economía",
+            "Tecnología"
+        ],
+        "subgenres": [
+            "Crítica del capitalismo digital",
+            "Política global"
+        ],
+        "themes": [
+            "poder digital",
+            "explotación",
+            "sistemas económicos"
+        ],
+        "emotion_tags": [
+            "alerta",
+            "reflexión",
+            "urgencia"
+        ],
+        "tone": "crítico",
+        "style": "ensayístico",
+        "age_range": "18+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta racionalidad"
+        ],
+        "year": 2023,
+        "description": "Una denuncia del dominio de las grandes tecnológicas como una nueva forma de feudalismo global."
+    },
+    {
+        "title": "Una breve historia de la economía",
+        "author": "Niall Kishtainy",
+        "genres": [
+            "Economía",
+            "Historia"
+        ],
+        "subgenres": [
+            "Divulgación económica",
+            "Historia económica"
+        ],
+        "themes": [
+            "mercado",
+            "crisis",
+            "pensamiento económico"
+        ],
+        "emotion_tags": [
+            "curiosidad",
+            "claridad",
+            "aprendizaje"
+        ],
+        "tone": "informativo",
+        "style": "sintético",
+        "age_range": "14+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta conciencia"
+        ],
+        "year": 2017,
+        "description": "Un recorrido accesible por los momentos clave y las grandes ideas que han moldeado la economía moderna."
+    },
+    {
+        "title": "Una breve historia de la igualdad",
+        "author": "Thomas Piketty",
+        "genres": [
+            "Economía",
+            "Historia"
+        ],
+        "subgenres": [
+            "Ensayo",
+            "Historia social"
+        ],
+        "themes": [
+            "igualdad",
+            "redistribución",
+            "progreso"
+        ],
+        "emotion_tags": [
+            "esperanza",
+            "conciencia",
+            "compromiso"
+        ],
+        "tone": "optimista",
+        "style": "ensayístico",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta responsabilidad"
+        ],
+        "year": 2021,
+        "description": "Un ensayo que resume siglos de lucha por la igualdad y propone caminos para avanzar hacia sociedades más justas."
+    },
+    {
+        "title": "Un paso por delante de Wall Street",
+        "author": "Peter Lynch",
+        "genres": [
+            "Finanzas",
+            "Inversión"
+        ],
+        "subgenres": [
+            "Mercado de valores",
+            "Inversión a largo plazo"
+        ],
+        "themes": [
+            "rentabilidad",
+            "oportunidad",
+            "análisis financiero"
+        ],
+        "emotion_tags": [
+            "motivación",
+            "confianza",
+            "ambición"
+        ],
+        "tone": "práctico",
+        "style": "experiencial",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta responsabilidad",
+            "Alta racionalidad"
+        ],
+        "year": 1989,
+        "description": "Un clásico de la inversión que enseña cómo cualquier persona puede batir al mercado con conocimiento y disciplina."
+    },
+    {
+        "title": "Walden",
+        "author": "Henry David Thoreau",
+        "genres": [
+            "Filosofía",
+            "Naturaleza"
+        ],
+        "subgenres": [
+            "Vida simple",
+            "Individualismo"
+        ],
+        "themes": [
+            "naturaleza",
+            "soledad",
+            "libertad"
+        ],
+        "emotion_tags": [
+            "paz",
+            "reflexión",
+            "contemplación"
+        ],
+        "tone": "sereno",
+        "style": "ensayístico-narrativo",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta introspección"
+        ],
+        "year": 1854,
+        "description": "Una meditación filosófica sobre la autosuficiencia y la vida en armonía con la naturaleza."
+    },
+    {
+        "title": "Walden Dos",
+        "author": "B. F. Skinner",
+        "genres": [
+            "Psicología",
+            "Ficción utópica"
+        ],
+        "subgenres": [
+            "Conductismo",
+            "Sociedad ideal"
+        ],
+        "themes": [
+            "comportamiento",
+            "utopía",
+            "organización social"
+        ],
+        "emotion_tags": [
+            "curiosidad",
+            "desafío",
+            "reflexión"
+        ],
+        "tone": "experimental",
+        "style": "narrativo-ensayístico",
+        "age_range": "16+",
+        "language": "es",
+        "personality_match": [
+            "Alta apertura",
+            "Alta racionalidad"
+        ],
+        "year": 1948,
+        "description": "Una novela que explora cómo una comunidad basada en principios científicos puede crear una sociedad más feliz."
     }
 ]

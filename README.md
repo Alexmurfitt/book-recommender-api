@@ -1,88 +1,100 @@
+✅ README.md FINAL
+
 # 📚 Book Recommender API
 
-API backend avanzada construida con **FastAPI** y **MongoDB**, diseñada para recomendar libros de forma hiperpersonalizada combinando:
+Sistema backend avanzado construido con **FastAPI** y **MongoDB**, que ofrece recomendaciones de libros hiperpersonalizadas a partir de:
 
-- 🎯 Un cuestionario literario sobre preferencias (géneros, emociones, estilo)
-- 🧠 Un test de personalidad basado en el modelo Big Five (OCEAN)
-- ⚙️ Un sistema de puntuación heurística para comparar perfiles con libros
-- 📘 Un conjunto validado de 335 libros clasificados en 67 subgéneros
+- 🎯 Un cuestionario literario (géneros, emociones, tono, estilo...)
+- 🧠 Un test psicológico Big Five (OCEAN)
+- 🔍 Un sistema heurístico de puntuación por afinidad
+- 📘 Una base de datos validada con 335 libros clasificados en 67 subgéneros
 
 ---
 
 ## 🚀 Tecnologías
 
-- **FastAPI**
-- **MongoDB (PyMongo)**
-- **Pydantic**
-- **dotenv**
-- **Uvicorn**
+- FastAPI
+- PyMongo + MongoDB
+- Pydantic
+- dotenv
+- Uvicorn
 
 ---
 
-## 📁 Estructura del proyecto
+## 📁 Estructura del Proyecto
 
 book_recommender_api/
 ├── app/
-│   ├── main.py
-│   ├── quiz.py
-│   ├── personality.py
-│   ├── profile.py
-│   ├── recommender.py
-│   ├── explain.py
-│   ├── books_controller.py
-│   ├── database.py
-│   └── models.py
+│ ├── main.py # Inicializa la API y registra routers
+│ ├── database.py # Conexión MongoDB
+│ ├── models.py # Esquemas Pydantic: perfil, libros, respuesta
+│ ├── recommender.py # Algoritmo de puntuación y explicación
+│ ├── books_controller.py # Rutas principales
+│ ├── quiz.py # Preferencias literarias
+│ ├── personality.py # Test OCEAN
+│ ├── profile.py # Perfil completo
+│ ├── explain.py # Explicaciones textuales
+│ ├── user_controller.py # Guardado de usuarios
+│ └── init.py
 ├── data/
-│   └── books_all_335.json
+│ └── books_all_335.json # Base validada de libros
 ├── utils/
-│   ├── import_books.py
-│   ├── validate_books.py
-│   └── merge_books.py
-├── requirements.txt
-└── .env
+│ ├── import_books.py # Inserta libros en MongoDB
+│ ├── validate_books.py # Verifica integridad estructural
+│ └── merge_books.py # Combina versiones del dataset
+├── tests/
+│ └── test_recommender.py # Pruebas PyTest del sistema de puntuación
+├── .env # URI MongoDB
+├── requirements.txt # Dependencias
+├── pytest.ini # Configuración de PyTest
+└── README.md
+
 
 ---
 
-## 🧪 Endpoints principales
+## 📡 Endpoints principales
 
-| Método | Ruta                   | Descripción                                          |
-|--------|------------------------|------------------------------------------------------|
-| POST   | `/quiz`               | Enviar preferencias literarias del usuario           |
-| POST   | `/personality-test`   | Enviar resultados del test Big Five (OCEAN)          |
-| POST   | `/profile`            | Guardar perfil completo del usuario en MongoDB       |
-| GET    | `/recommendation`     | Obtener libros más afines según el perfil            |
-| GET    | `/explain-recommendation` | Justificación semántica de las recomendaciones |
-| GET    | `/books`              | Lista de libros disponibles (título + autor)         |
+| Método | Ruta                         | Función                                                   |
+|--------|------------------------------|------------------------------------------------------------|
+| POST   | `/quiz`                      | Enviar preferencias literarias                             |
+| POST   | `/personality-test`          | Enviar resultados del test OCEAN                           |
+| POST   | `/profile`                   | Guardar perfil completo del usuario                        |
+| GET    | `/recommendation`            | Obtener libro recomendado según el perfil                  |
+| GET    | `/explain-recommendation`    | Justificación textual de la recomendación                  |
+| GET    | `/books`                     | Listar libros disponibles (título y autor)                 |
+| POST   | `/users/save`                | Guardar perfil del usuario completo en MongoDB             |
 
 ---
 
-## ⚙️ Cómo ejecutar el proyecto
+## ⚙️ Uso del Proyecto
 
-# 1. Clonar el repositorio
-https://github.com/tu_usuario/book-recommender-api.git
+### 1. Clonar el repositorio
 
-# 2. Crear y activar entorno virtual
-python3 -m venv venv
-source venv/bin/activate  # o venv\Scripts\activate en Windows
+git clone https://github.com/tu_usuario/book-recommender-api.git
+cd book-recommender-api
+2. Crear entorno virtual
+python -m venv venv
+# Windows:
+venv\Scripts\activate
+# Linux/Mac:
+source venv/bin/activate
+3. Instalar dependencias
 
-# 3. Instalar dependencias
 pip install -r requirements.txt
+4. Crear .env
+ini
 
-# 4. Crear archivo .env con:
 MONGO_URI=mongodb://localhost:27017
+5. Importar libros
 
-# 5. Importar libros
 python utils/import_books.py
+6. Ejecutar servidor
 
-# 6. Ejecutar el servidor
 uvicorn app.main:app --reload
+📄 Accede a la documentación en Swagger:
+http://127.0.0.1:8000/docs
 
-Accede a la documentación interactiva en:
-👉 http://127.0.0.1:8000/docs
-
----
-
-## 🧠 Ejemplo de perfil
+🧠 Ejemplo de perfil enviado
 
 {
   "preferences": {
@@ -102,14 +114,15 @@ Accede a la documentación interactiva en:
     "N": 32
   }
 }
+✅ Estado actual
+ API funcional y modular
 
----
+ Sistema de recomendación heurística completo
 
-## ✅ Estado actual
+ Dataset validado y enriquecido
 
-- [x] API funcional con todos los endpoints clave
-- [x] Sistema heurístico de recomendación preciso
-- [x] Justificación semántica personalizada
-- [x] Base de datos con 335 libros organizados
+ Justificación textual personalizada
+
+ Tests automáticos básicos
 
 

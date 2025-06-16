@@ -1,23 +1,72 @@
-# Entorno virtual
+# ======================================
+# 📦 ENTORNOS Y DEPENDENCIAS
+# ======================================
 venv/
+*/venv/
 .env
+*.env
+*.env.*
 
-# Compilaciones Python
+# ======================================
+# 🐍 PYTHON COMPILADOS / CACHÉ
+# ======================================
 __pycache__/
 *.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+build/
+dist/
 
-# Jupyter Notebooks
+# ======================================
+# 📓 JUPYTER NOTEBOOKS
+# ======================================
 .ipynb_checkpoints/
 
-# Archivos del sistema
-.DS_Store
-Thumbs.db
-
-# Logs y cachés
-*.log
-.cache/
-
-# Archivos de entorno y editores
+# ======================================
+# ⚙️ CONFIGURACIONES DE EDITORES/IDE
+# ======================================
 .vscode/
 .idea/
 *.swp
+
+# ======================================
+# 🧪 TESTS Y LOGS
+# ======================================
+*.log
+coverage.xml
+.cache/
+.tox/
+.pytest_cache/
+htmlcov/
+
+# ======================================
+# 📁 ARCHIVOS DEL SISTEMA
+# ======================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ======================================
+# 📂 DATOS QUE NO DEBERÍAN SUBIRSE
+# ======================================
+book_recommender_api/data/raw/
+book_recommender_api/data/processed/
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.json
+
+# ======================================
+# 📄 ARCHIVOS OPCIONALES DE PRUEBA
+# ======================================
+# Si deseas subir muestras, usa una carpeta como:
+# samples/example_data.json
+
+# ======================================
+# 🧪 SCRIPTS AUXILIARES TEMPORALES
+# ======================================
+scripts/
